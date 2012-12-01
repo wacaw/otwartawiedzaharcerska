@@ -1,3 +1,0 @@
-\select@language {polish}
-\select@language {polish}
-\contentsline {chapter}{\chapternumberline {1}Wst\IeC {\k e}p}{1}{chapter.1}
