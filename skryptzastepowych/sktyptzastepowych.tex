@@ -1,11 +1,11 @@
 \documentclass[10pt,polish,a5paper,final,twoside,fleqn,onecolumn]{skryptzast}
-
+\usepackage[top=1.5cm, bottom=1.5cm, left=2cm, right=2cm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[OT4]{fontenc}
 
 \usepackage{tikz}
 \usepackage{tikz-qtree}
-\usepackage{listings}
+\usepackage{enumitem}
 
 \usepackage[widespace]{fourier}   % Use Utopia font set
 \usepackage[scaled=0.875]{helvet} % Use Helvetica for sans-serif
@@ -21,8 +21,20 @@
 \usepackage{xspace} 
 \usepackage[style=long,nonumberlist]{glossaries}
 
+\usepackage{amsthm} % pushQED, popQED
+\newenvironment{aquote}[1]{%
+  \pushQED{#1}%
+  \begin{quote}
+}{%
+  \par\nointerlineskip\noindent\hfill(\popQED)%
+  \end{quote}%
+}
+
 \title{Skrypt kursu zastępowych}
 \date{2012}
+
+
+
 \begin{document}
 \maketitle\cleardoublepage
 
@@ -30,7 +42,12 @@
 \tableofcontents* \cleardoublepage%
 
 \mainmatter
-\input{01-wstep.tex}
+\input{wstep.tex}
+\input{historia.tex}
+\input{systemzastepowy.tex}
+
+
+\input{autorzy.tex}
 
 
 

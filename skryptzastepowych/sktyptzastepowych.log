@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 NOV 2012 21:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2012 03:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -567,16 +567,16 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 66.
 
 
 ******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
+Stock height and width: 597.50787pt by 421.10078pt
 Top and edge trims: 0pt and 0pt
-Page height and width: 845.04684pt by 597.50787pt
-Text height and width: 700pt by 426pt
-Spine and edge margins: 99.58464pt and 71.13188pt
-Upper and lower margins: 71.13188pt and 73.91496pt
-Headheight and headsep: 12pt and 24pt
-Footskip: 24pt
+Page height and width: 597.50787pt by 421.10078pt
+Text height and width: 355pt by 276pt
+Spine and edge margins: 58.26999pt and 86.8308pt
+Upper and lower margins: 127.33748pt and 115.1704pt
+Headheight and headsep: 12pt and 18.06749pt
+Footskip: 25.29494pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 6pt and 50pt
+Marginparsep and marginparwidth: 7pt and 51pt
 Sidecapsep and sidecapwidth: 7pt and 51pt
 Sidebarhsep and sidebarwidth: 7pt and 51pt
 Sidebarvsep and sidebartopsep: 12pt and 0pt
@@ -585,10 +585,25 @@ Sidefoothsep and sidefootwidth: 7pt and 51pt
 Sidefootvsep and sidefootheight: 12pt and 344.39996pt
 ******************************************************
 
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count156
+\Gm@cntv=\count157
+\c@Gm@tempcnt=\count158
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks23
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -825,7 +840,7 @@ File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks25
+\pgfutil@everybye=\toks26
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box30
@@ -841,27 +856,27 @@ Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks26
-\pgfkeys@temptoks=\toks27
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks28
+\pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen158
-\pgf@y=\dimen159
-\pgf@xa=\dimen160
-\pgf@ya=\dimen161
-\pgf@xb=\dimen162
-\pgf@yb=\dimen163
-\pgf@xc=\dimen164
-\pgf@yc=\dimen165
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
 \w@pgf@writea=\write5
 \r@pgf@reada=\read3
-\c@pgf@counta=\count156
-\c@pgf@countb=\count157
-\c@pgf@countc=\count158
-\c@pgf@countd=\count159
+\c@pgf@counta=\count159
+\c@pgf@countb=\count160
+\c@pgf@countc=\count161
+\c@pgf@countd=\count162
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -879,8 +894,8 @@ File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count160
-\pgfsyssoftpath@bigbuffer@items=\count161
+\pgfsyssoftpath@smallbuffer@items=\count163
+\pgfsyssoftpath@bigbuffer@items=\count164
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -908,12 +923,12 @@ Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen166
-\pgfmath@count=\count162
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count165
 \pgfmath@box=\box31
-\pgfmath@toks=\toks29
-\pgfmath@stack@operand=\toks30
-\pgfmath@stack@operation=\toks31
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -932,37 +947,37 @@ code.tex)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
 code.tex)))
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count163
+\c@pgfmathroundto@lastzeros=\count166
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen167
-\pgf@picmaxx=\dimen168
-\pgf@picminy=\dimen169
-\pgf@picmaxy=\dimen170
-\pgf@pathminx=\dimen171
-\pgf@pathmaxx=\dimen172
-\pgf@pathminy=\dimen173
-\pgf@pathmaxy=\dimen174
-\pgf@xx=\dimen175
-\pgf@xy=\dimen176
-\pgf@yx=\dimen177
-\pgf@yy=\dimen178
-\pgf@zx=\dimen179
-\pgf@zy=\dimen180
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen181
-\pgf@path@lasty=\dimen182
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen183
-\pgf@shorten@start@additional=\dimen184
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -970,19 +985,19 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box32
 \pgf@hbox=\box33
 \pgf@layerbox@main=\box34
-\pgf@picture@serial@count=\count164
+\pgf@picture@serial@count=\count167
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen185
+\pgflinewidth=\dimen193
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen186
-\pgf@pt@y=\dimen187
-\pgf@pt@temp=\dimen188
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1003,8 +1018,8 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen189
-\pgf@sys@shading@range@num=\count165
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count168
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1039,8 +1054,8 @@ File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen190
-\pgf@nodesepend=\dimen191
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1051,10 +1066,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
 ) (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen192
-\pgffor@skip=\dimen193
-\pgffor@stack=\toks32
-\pgffor@toks=\toks33
+\pgffor@iter=\dimen200
+\pgffor@skip=\dimen201
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -1063,30 +1078,30 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count166
-\pgfplotmarksize=\dimen194
+\pgf@plot@mark@count=\count169
+\pgfplotmarksize=\dimen202
 )
-\tikz@lastx=\dimen195
-\tikz@lasty=\dimen196
-\tikz@lastxsaved=\dimen197
-\tikz@lastysaved=\dimen198
-\tikzleveldistance=\dimen199
-\tikzsiblingdistance=\dimen200
+\tikz@lastx=\dimen203
+\tikz@lasty=\dimen204
+\tikz@lastxsaved=\dimen205
+\tikz@lastysaved=\dimen206
+\tikzleveldistance=\dimen207
+\tikzsiblingdistance=\dimen208
 \tikz@figbox=\box37
 \tikz@tempbox=\box38
-\tikztreelevel=\count167
-\tikznumberofchildren=\count168
-\tikznumberofcurrentchild=\count169
-\tikz@fig@count=\count170
+\tikztreelevel=\count170
+\tikznumberofchildren=\count171
+\tikznumberofcurrentchild=\count172
+\tikz@fig@count=\count173
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count171
-\pgfmatrixcurrentcolumn=\count172
-\pgf@matrix@numberofcolumns=\count173
+\pgfmatrixcurrentrow=\count174
+\pgfmatrixcurrentcolumn=\count175
+\pgf@matrix@numberofcolumns=\count176
 )
-\tikz@expandcount=\count174
+\tikz@expandcount=\count177
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1096,64 +1111,48 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tikz-qtree/pgftree.sty
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.sty
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.tex
-\pgf@subpicminx=\dimen201
-\pgf@subpicminy=\dimen202
-\pgf@subpicmaxx=\dimen203
-\pgf@subpicmaxy=\dimen204
+\pgf@subpicminx=\dimen209
+\pgf@subpicminy=\dimen210
+\pgf@subpicmaxx=\dimen211
+\pgf@subpicmaxy=\dimen212
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tikz-qtree/pgftree.tex
-\levelsep=\dimen205
-\subtreesep=\dimen206
-\smuggle@levelsep=\dimen207
-\smuggle@subtreesep=\dimen208
-\this@levelsep=\dimen209
-\this@subtreesep=\dimen210
-\pgftree@childx=\dimen211
-\pgftree@savechildx=\dimen212
-\pgftree@childy=\dimen213
-\pgftree@savechildy=\dimen214
-\pgftree@childi=\count175
-\pgftree@savechildi=\count176
-\pgftree@level=\count177
-\pgftree@depth=\dimen215
+\levelsep=\dimen213
+\subtreesep=\dimen214
+\smuggle@levelsep=\dimen215
+\smuggle@subtreesep=\dimen216
+\this@levelsep=\dimen217
+\this@subtreesep=\dimen218
+\pgftree@childx=\dimen219
+\pgftree@savechildx=\dimen220
+\pgftree@childy=\dimen221
+\pgftree@savechildy=\dimen222
+\pgftree@childi=\count178
+\pgftree@savechildi=\count179
+\pgftree@level=\count180
+\pgftree@depth=\dimen223
 \pgf@subpic@hbox@children=\box39
-\pgf@subpic@minx@children=\dimen216
-\pgf@subpic@miny@children=\dimen217
-\pgf@subpic@maxx@children=\dimen218
-\pgf@subpic@maxy@children=\dimen219
-\pgftree@lastchildx=\dimen220
-\pgftree@lastchildy=\dimen221
+\pgf@subpic@minx@children=\dimen224
+\pgf@subpic@miny@children=\dimen225
+\pgf@subpic@maxx@children=\dimen226
+\pgf@subpic@maxy@children=\dimen227
+\pgftree@lastchildx=\dimen228
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgftree@lastchildy=\dimen256
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tikz-qtree/tikz-qtree.tex
-\@result=\toks34
-\child@list=\toks35
-\root@node=\toks36
+\@result=\toks35
+\child@list=\toks36
+\root@node=\toks37
 ))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count178
-\lst@gtempboxa=\box40
-\lst@token=\toks37
-\lst@length=\count179
-\lst@currlwidth=\dimen222
-\lst@column=\count180
-\lst@pos=\count181
-\lst@lostspace=\dimen223
-\lst@width=\dimen224
-\lst@newlines=\count182
-\lst@lineno=\count183
-\lst@maxwidth=\dimen225
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
-\c@lstnumber=\count184
-\lst@skipnumbers=\count185
-\lst@framebox=\box41
+(/usr/local/texlive/2012/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip186
+\enit@outerparindent=\dimen257
+\enit@toks=\toks38
+\enit@inbox=\box40
+\enitdp@description=\count181
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2007/02/22 1.4 listings configuration
-))
-Package: listings 2007/02/22 1.4 (Carsten Heinz)
-
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
 Now handling font encoding FML ...
@@ -1428,11 +1427,11 @@ LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen226
+\bigstrutjot=\dimen258
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2008/00/00 v3.10 algorithms environments
-\c@AlgoLine=\count186
+\c@AlgoLine=\count182
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
@@ -1461,43 +1460,42 @@ Package `algorithm2e' Release 4.01 -- december 14 2009 --
 subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 - Author: Christophe Fiorio (fiorio@lirmm.fr)
 ********************************************************
-\skiptotal=\skip186
-\skiplinenumber=\skip187
-\skiprule=\skip188
-\skiphlne=\skip189
-\skiptext=\skip190
-\skiplength=\skip191
-\algomargin=\skip192
-\skipalgocfslide=\skip193
-\algowidth=\dimen227
-\inoutsize=\dimen228
-Normal \dimen register pool exhausted, switching to extended pool.
-\inoutline=\dimen256
-\interspacetitleruled=\dimen257
-\interspacealgoruled=\dimen258
-\interspacetitleboxruled=\dimen259
-\algocf@inoutbox=\box42
-\algocf@inputbox=\box43
-\AlCapSkip=\skip194
-\AlCapHSkip=\skip195
-\algocf@nlbox=\box44
-\algocf@hangingbox=\box45
-\algocf@capbox=\box46
-\algoheightruledefault=\skip196
-\algoheightrule=\skip197
-\algotitleheightruledefault=\skip198
-\algotitleheightrule=\skip199
-\c@algocfline=\count187
-\c@algocfproc=\count188
-\c@algocf=\count189
-\algocf@algoframe=\box47
-\algocf@algobox=\box48
+\skiptotal=\skip187
+\skiplinenumber=\skip188
+\skiprule=\skip189
+\skiphlne=\skip190
+\skiptext=\skip191
+\skiplength=\skip192
+\algomargin=\skip193
+\skipalgocfslide=\skip194
+\algowidth=\dimen259
+\inoutsize=\dimen260
+\inoutline=\dimen261
+\interspacetitleruled=\dimen262
+\interspacealgoruled=\dimen263
+\interspacetitleboxruled=\dimen264
+\algocf@inoutbox=\box41
+\algocf@inputbox=\box42
+\AlCapSkip=\skip195
+\AlCapHSkip=\skip196
+\algocf@nlbox=\box43
+\algocf@hangingbox=\box44
+\algocf@capbox=\box45
+\algoheightruledefault=\skip197
+\algoheightrule=\skip198
+\algotitleheightruledefault=\skip199
+\algotitleheightrule=\skip200
+\c@algocfline=\count183
+\c@algocfproc=\count184
+\c@algocf=\count185
+\algocf@algoframe=\box46
+\algocf@algobox=\box47
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip200
+\@mathmargin=\skip201
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -1505,51 +1503,51 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks38
-\ex@=\dimen260
+\@emptytoks=\toks39
+\ex@=\dimen265
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen261
+\pmbraise@=\dimen266
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count190
+\inf@bad=\count186
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count191
-\leftroot@=\count192
+\uproot@=\count187
+\leftroot@=\count188
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count193
-\DOTSCASE@=\count194
+\classnum@=\count189
+\DOTSCASE@=\count190
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box49
-\strutbox@=\box50
-\big@size=\dimen262
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen267
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count195
-\c@MaxMatrixCols=\count196
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
 \dotsspace@=\muskip11
-\c@parentequation=\count197
-\dspbrk@lvl=\count198
-\tag@help=\toks39
-\row@=\count199
-\column@=\count200
-\maxfields@=\count201
-\andhelp@=\toks40
-\eqnshift@=\dimen263
-\alignsep@=\dimen264
-\tagshift@=\dimen265
-\tagwidth@=\dimen266
-\totwidth@=\dimen267
-\lineht@=\dimen268
-\@envbody=\toks41
-\multlinegap=\skip201
-\multlinetaggap=\skip202
-\mathdisplay@stack=\toks42
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks40
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks41
+\eqnshift@=\dimen268
+\alignsep@=\dimen269
+\tagshift@=\dimen270
+\tagwidth@=\dimen271
+\totwidth@=\dimen272
+\lineht@=\dimen273
+\@envbody=\toks42
+\multlinegap=\skip202
+\multlinetaggap=\skip203
+\mathdisplay@stack=\toks43
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
@@ -1560,9 +1558,9 @@ Package: glossaries 2012/05/21 v3.02 (NLCT)
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks43
-\XKV@tempa@toks=\toks44
-\XKV@depth=\count202
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+\XKV@depth=\count198
 File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/base/mfirstuc.sty
@@ -1570,10 +1568,10 @@ Package: mfirstuc 2012/05/21 v1.06 (NLCT)
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count203
+\etb@tempcnta=\count199
 )
-\@glsmfirst=\toks45
-\@glsmrest=\toks46
+\@glsmfirst=\toks46
+\@glsmrest=\toks47
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -1586,9 +1584,9 @@ uage-mappings.tex))
 
 Package glossaries Warning: overriding \glossarymark on input line 558.
 
-\gls@level=\count204
-\@gls@tmpb=\toks47
-\gls@tmplen=\skip203
+\gls@level=\count200
+\@gls@tmpb=\toks48
+\gls@tmplen=\skip204
 \glswrite=\write6
 
 Package glossaries Warning: Overriding \printglossary on input line 3393.
@@ -1597,10 +1595,10 @@ Package glossaries Warning: Overriding \printglossary on input line 3393.
 Package glossaries Warning: overriding `theglossary' environment on input line 
 3584.
 
-\glskeylisttok=\toks48
-\glslabeltok=\toks49
-\glsshorttok=\toks50
-\glslongtok=\toks51
+\glskeylisttok=\toks49
+\glslabeltok=\toks50
+\glsshorttok=\toks51
+\glslongtok=\toks52
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
 av.sty
@@ -1609,128 +1607,140 @@ Package: glossary-hypernav 2007/07/04 v1.01 (NLCT)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
 ty
 Package: glossary-list 2011/03/28 v3.0 (NLCT)
-\glslistdottedwidth=\skip204
+\glslistdottedwidth=\skip205
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
 ty
 Package: glossary-long 2011/03/28 v3.0 (NLCT)
  (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip205
-\LTright=\skip206
-\LTpre=\skip207
-\LTpost=\skip208
-\LTchunksize=\count205
-\LTcapwidth=\dimen269
-\LT@head=\box51
-\LT@firsthead=\box52
-\LT@foot=\box53
-\LT@lastfoot=\box54
-\LT@cols=\count206
-\LT@rows=\count207
-\c@LT@tables=\count208
-\c@LT@chunks=\count209
-\LT@p@ftn=\toks52
+\LTleft=\skip206
+\LTright=\skip207
+\LTpre=\skip208
+\LTpost=\skip209
+\LTchunksize=\count201
+\LTcapwidth=\dimen274
+\LT@head=\box50
+\LT@firsthead=\box51
+\LT@foot=\box52
+\LT@lastfoot=\box53
+\LT@cols=\count202
+\LT@rows=\count203
+\c@LT@tables=\count204
+\c@LT@chunks=\count205
+\LT@p@ftn=\toks53
 )
-\glsdescwidth=\skip209
-\glspagelistwidth=\skip210
+\glsdescwidth=\skip210
+\glspagelistwidth=\skip211
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-super.
 sty
 Package: glossary-super 2011/03/28 v3.0 (NLCT)
  (/usr/local/texlive/2012/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count210
-\ST@wd=\dimen270
-\ST@rightskip=\skip211
-\ST@leftskip=\skip212
-\ST@parfillskip=\skip213
-\ST@pageleft=\dimen271
-\ST@headht=\dimen272
-\ST@tailht=\dimen273
-\ST@pagesofar=\dimen274
-\ST@pboxht=\dimen275
-\ST@lineht=\dimen276
-\ST@stretchht=\dimen277
-\ST@prevht=\dimen278
-\ST@toadd=\dimen279
-\ST@dimen=\dimen280
-\ST@pbox=\box55
+\c@tracingst=\count206
+\ST@wd=\dimen275
+\ST@rightskip=\skip212
+\ST@leftskip=\skip213
+\ST@parfillskip=\skip214
+\ST@pageleft=\dimen276
+\ST@headht=\dimen277
+\ST@tailht=\dimen278
+\ST@pagesofar=\dimen279
+\ST@pboxht=\dimen280
+\ST@lineht=\dimen281
+\ST@stretchht=\dimen282
+\ST@prevht=\dimen283
+\ST@toadd=\dimen284
+\ST@dimen=\dimen285
+\ST@pbox=\box54
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
 ty
 Package: glossary-tree 2011/03/28 v3.0 (NLCT)
-\glstreeindent=\skip214
-)) (./sktyptzastepowych.aux)
+\glstreeindent=\skip215
+)) (/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks54
+\thm@bodyfont=\toks55
+\thm@headfont=\toks56
+\thm@notefont=\toks57
+\thm@headpunct=\toks58
+\thm@preskip=\skip216
+\thm@postskip=\skip217
+\thm@headsep=\skip218
+\dth@everypar=\toks59
+)
+(./sktyptzastepowych.aux)
 \openout1 = `sktyptzastepowych.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 26.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 38.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 38.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 26.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 38.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 26.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 38.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 26.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 26.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 38.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count211
-\scratchdimen=\dimen281
-\scratchbox=\box56
-\nofMPsegments=\count212
-\nofMParguments=\count213
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count214
-\MPscratchDim=\dimen282
-\MPnumerator=\count215
-\makeMPintoPDFobject=\count216
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count207
+\scratchdimen=\dimen286
+\scratchbox=\box55
+\nofMPsegments=\count208
+\nofMParguments=\count209
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count210
+\MPscratchDim=\dimen287
+\MPnumerator=\count211
+\makeMPintoPDFobject=\count212
+\everyMPtoPDFconversion=\toks61
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1745,22 +1755,54 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \Ref on input line 26.
-\AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 26.
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \Ref on input line 38.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring ON on input line 38.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./sktyptzastepowych.out) (./sktyptzastepowych.out)
 \@outlinefile=\write7
 \openout7 = `sktyptzastepowych.out'.
 
-LaTeX Info: Redefining \Ref on input line 26.
+LaTeX Info: Redefining \Ref on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=512.14963pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-59.65836pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count217
-
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/dict/glossaries-dictio
 nary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
@@ -1769,24 +1811,24 @@ Dictionary: glossaries-dictionary, Language: English
 nary-Polish.dict
 Dictionary: glossaries-dictionary, Language: Polish 
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 27
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 39
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 27.
+(Font)              scaled to size 10.07397pt on input line 39.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 27.
+(Font)              scaled to size 7.63599pt on input line 39.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 27.
+(Font)              scaled to size 5.51999pt on input line 39.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 27.
+(Font)              scaled to size 10.07397pt on input line 39.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 27.
+(Font)              scaled to size 7.63599pt on input line 39.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 27.
+(Font)              scaled to size 5.51999pt on input line 39.
 
 
 LaTeX Warning: No \author given.
@@ -1798,7 +1840,7 @@ LaTeX Warning: No \author given.
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 30.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 42.
  (./sktyptzastepowych.toc
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 3.
@@ -1812,10 +1854,162 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 3.
 ) [1] [2
 
-] (./01-wstep.tex
+] (./wstep.tex
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
-)
+
+Overfull \hbox (8.55621pt too wide) in paragraph at lines 7--9
+[]\T1/futs/b/n/10 Przyrzeczenie har-cer-skie \T1/futs/m/n/10 Mam szczer¡ wol¦ c
+a-ªym »y-ciem peª-ni¢ sªu»b¦
+ []
+
+) (./historia.texpdfTeX warning (ext4): destination with the same identifier (n
+ame{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Historia} [1
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Historia} [2
+
+]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
+
+Overfull \hbox (1.84172pt too wide) in paragraph at lines 17--27
+\T1/futs/m/n/10 mu-siaª mie¢ sprawny w¦ch). Sku-tecz-no±¢ sco-utingu udo-wod-ni
+ª, kiedy jego
+ []
+
+[3]
+Overfull \hbox (1.61966pt too wide) in paragraph at lines 28--29
+\T1/futs/m/n/10 bur-skimi. Baden-Powell jako puª-kow-nik do-wo-dziª dzie-si¦-ci
+o-krot-nie mniej-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (8.00551pt too wide) in paragraph at lines 38--39
+[]\T1/futs/m/n/10 2. lipca 1913 roku 43 skau-tów z trzech za-bo-rów wy-je-chaªo
+ na III Wszech-
+ []
+
+
+Overfull \hbox (3.59003pt too wide) in paragraph at lines 38--39
+\T1/futs/m/n/10 Tu» przed wy-bu-chem I wojny ±wia-to-wej pol-ski skau-ting li-c
+zyª po-nad 15.000
+ []
+
+
+Overfull \hbox (5.2823pt too wide) in paragraph at lines 40--41
+\T1/futs/m/n/10 uwag¦ na do-mi-nu-j¡cy, nad-mier-nie roz-bu-do-wany w har-cer-s
+twie mi-li-ta-ryzm,
+ []
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (4.9084pt too wide) in paragraph at lines 44--45
+[]\T1/futs/m/n/10 Wiele byªo przy-kªa-dów udziaªu har-ce-rzy w dzia-ªa-niach wo
+-jen-nych Kam-
+ []
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (4.44849pt too wide) in paragraph at lines 48--49
+[]\T1/futs/m/n/10 23 marca za-szªa jed-nak ko-niecz-no±¢ prze-pro-wa-dze-nia ak
+-cji in-nego typu
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Overfull \hbox (8.07622pt too wide) in paragraph at lines 52--53
+\T1/futs/m/n/10 dol-nie, jako »e ofi-cjal-nie ZHP zo-staª po-wo-ªany do »y-cia 
+de-cy-zj¡ wªadz o±wia-
+ []
+
+
+Overfull \hbox (2.17722pt too wide) in paragraph at lines 52--53
+\T1/futs/m/n/10 to-wych do-piero 30. grud-nia 1944 roku. Nowe wªa-dze zda-waªy 
+so-bie spraw¦
+ []
+
+[11]
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (18.33229pt too wide) in paragraph at lines 58--59
+\T1/futs/m/n/10 wy-wa¢ mªo-dzie» pa-trio-tycz-nie pod du-cho-wym prze-wod-nic-t
+wem PZPR. Stwier-
+ []
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [13]
+Overfull \hbox (6.38232pt too wide) in paragraph at lines 64--65
+\T1/futs/m/n/10 Naj-wa»-niej-szym ich osi¡-gni¦-ciem byªo stwo-rze-nie wªa-sneg
+o sys-temu stopni
+ []
+
+
+Overfull \hbox (7.5718pt too wide) in paragraph at lines 64--65
+\T1/futs/m/n/10 za-wie-szono wtedy wi¦k-szo±¢ zwi¡z-ków i sto-wa-rzy-sze«). Na 
+po-rz¡dku dzien-
+ []
+
+
+Overfull \hbox (9.03055pt too wide) in paragraph at lines 64--65
+\T1/futs/m/n/10 cho¢ apa-rat eta-towy byª in-sty-tu-cj¡ jedn¡ z naj-bar-dziej o
+d-por-nych na zmiany.
+ []
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [14])
+(./systemzastepowy.tex
+Overfull \hbox (18.74449pt too wide) in paragraph at lines 66--1
+\T1/futs/m/n/10 sce spo-wo-do-waªy praw-dziwe, b¦-d¡ce po-wro-tem do tra-dy-cji
+, zmiany w Zwi¡zku
+ []
+
+
+Overfull \hbox (5.78903pt too wide) in paragraph at lines 66--1
+\T1/futs/m/n/10 do-ko-nane po cz¦-±ci na IX (XXVI wg. przy-wró-co-nej na nim nu
+-me-ra-cji przed-
+ []
+
+
+Overfull \hbox (1.38782pt too wide) in paragraph at lines 66--1
+\T1/futs/m/n/10 wo-jen-nej) Zje¹-dzie w 1989 roku. Przy-wró-cono przed-wo-jenne
+ Prawo i Przy-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16] [17
+
+]) (./autorzy.tex [18])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -1824,42 +2018,37 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.39 \end{document}
-                    [1
-
+[19
 
 ]
 \tf@toc=\write8
 \openout8 = `sktyptzastepowych.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (./sktyptzastepowych.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
-(rerunfilecheck)             Checksum: B4F789A08613081E07E0569543E9FFFA;83.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
+(rerunfilecheck)             Checksum: EDBC588D404F9ED2E4D9B7A5C92604AB;1553.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 25191 strings out of 493488
- 404657 string characters out of 3141326
- 535241 words of memory out of 3000000
- 28017 multiletter control sequences out of 15000+200000
- 69019 words of font info for 66 fonts, out of 3000000 for 9000
+ 24719 strings out of 493488
+ 398442 string characters out of 3141326
+ 544035 words of memory out of 3000000
+ 27497 multiletter control sequences out of 15000+200000
+ 86554 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 61i,11n,55p,1437b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,12n,55p,2688b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on sktyptzastepowych.pdf (5 pages, 28148 bytes).
+2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on sktyptzastepowych.pdf (23 pages, 100595 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 77 words of extra memory for PDF output out of 10000 (max. 10000000)
 

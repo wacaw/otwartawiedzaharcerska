@@ -1,7 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{skryptzast}[2012/11/30 v0.01 ZHR 3PHH]
 
-\ExecuteOptions{11pt,polish,a5paper,final,twoside,fleqn,onecolumn}
+\ExecuteOptions{11pt,polish,a5paper,final,twoside,fleqn,twocolumn}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
 \ProcessOptions\relax
 \LoadClass{memoir}
@@ -106,14 +106,19 @@
 %
 % \tightlists
 \pagestyle{skryptzast}
-\setstocksize{297mm}{210mm}
-\settrimmedsize{297mm}{210mm}{*}
-\settrims{0pt}{0cm}
-\setlrmarginsandblock{3.5cm}{2.5cm}{*}
-\setulmarginsandblock{2.5cm}{2.5cm}{*}
-\setmarginnotes{6pt}{50pt}{\onelineskip}
-\setheadfoot{\onelineskip}{2\onelineskip}
-\setheaderspaces{*}{2\onelineskip}{*}
+%\setstocksize{297mm}{210mm}
+%\settrimmedsize{297mm}{210mm}{*}
+%\settrims{0pt}{0cm}
+%\setlrmarginsandblock{3.5cm}{2.5cm}{*}
+%\setulmarginsandblock{2.5cm}{2.5cm}{*}
+%\setmarginnotes{6pt}{50pt}{\onelineskip}
+%\setheadfoot{\onelineskip}{2\onelineskip}
+%\setheaderspaces{*}{2\onelineskip}{*}
+%\setlength{\footskip}{10mm}
+%\setlength{\oddsidemargin}{0mm}
+%\setlength{\evensidemargin}{0mm}
+%\setlength{\topmargin}{0mm}
+%\setlength{\headsep}{5mm}
 \OnehalfSpacing
 
 \changecaptionwidth
