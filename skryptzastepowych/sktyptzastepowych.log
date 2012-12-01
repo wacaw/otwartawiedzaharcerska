@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2012 03:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2012 18:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1854,17 +1854,11 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 3.
 ) [1] [2
 
-] (./wstep.tex
+] (./01-wstep.tex
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
-
-Overfull \hbox (8.55621pt too wide) in paragraph at lines 7--9
-[]\T1/futs/b/n/10 Przyrzeczenie har-cer-skie \T1/futs/m/n/10 Mam szczer¡ wol¦ c
-a-ªym »y-ciem peª-ni¢ sªu»b¦
- []
-
-) (./historia.texpdfTeX warning (ext4): destination with the same identifier (n
-ame{page.1}) has been already used, duplicate ignored
+) (./02-historia.texpdfTeX warning (ext4): destination with the same identifier
+ (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
@@ -1985,7 +1979,7 @@ d-por-nych na zmiany.
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [14])
-(./systemzastepowy.tex
+(./03-systemzastepowy.tex
 Overfull \hbox (18.74449pt too wide) in paragraph at lines 66--1
 \T1/futs/m/n/10 sce spo-wo-do-waªy praw-dziwe, b¦-d¡ce po-wro-tem do tra-dy-cji
 , zmiany w Zwi¡zku
@@ -2009,7 +2003,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 [16] [17
 
-]) (./autorzy.tex [18])
+]
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 23--29
+\T1/futs/m/n/10 cych z tego sa-mego ±ro-do-wi-ska (szkoªa - klasa, osie-dle - p
+o-dwórko). Liczba
+ []
+
+[18]
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 40.
+
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+) [19])
+(./04-dzialaniazastepu.tex [20]
+Overfull \hbox (2.36801pt too wide) in paragraph at lines 7--8
+[]\T1/futs/b/n/10 Szczegóªowej cha-rak-te-ry-styki za-st¦pu \T1/futs/m/n/10 ---
+ tu za-miesz-czamy opis ka»-
+ []
+
+[21
+
+]) (./99-autorzy.tex [22])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -2018,37 +2032,37 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[19
+[23
 
 ]
 \tf@toc=\write8
 \openout8 = `sktyptzastepowych.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
  (./sktyptzastepowych.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
-(rerunfilecheck)             Checksum: EDBC588D404F9ED2E4D9B7A5C92604AB;1553.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
+(rerunfilecheck)             Checksum: 450364627884C6F61808CAD27622D8C2;2400.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 24719 strings out of 493488
- 398442 string characters out of 3141326
- 544047 words of memory out of 3000000
- 27497 multiletter control sequences out of 15000+200000
- 86554 words of font info for 74 fonts, out of 3000000 for 9000
+ 24773 strings out of 493488
+ 399375 string characters out of 3141326
+ 544054 words of memory out of 3000000
+ 27533 multiletter control sequences out of 15000+200000
+ 87018 words of font info for 76 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 61i,12n,55p,2688b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,12n,55p,2691b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/te
 xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (23 pages, 100595 bytes).
+Output written on sktyptzastepowych.pdf (27 pages, 113200 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

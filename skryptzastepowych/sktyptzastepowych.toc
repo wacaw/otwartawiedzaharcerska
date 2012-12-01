@@ -7,4 +7,10 @@
 \contentsline {section}{\numberline {2.3}Harcerstwo podczas II wojny \IeC {\'s}wiatowej}{8}{section.2.3}
 \contentsline {section}{\numberline {2.4}Harcerstwo w PRL i w III Rzeczypospolitej}{11}{section.2.4}
 \contentsline {chapter}{\chapternumberline {3}System zast\IeC {\k e}powy}{17}{chapter.3}
-\contentsline {chapter}{\chapternumberline {4}Autorzy tre\IeC {\'s}ci}{19}{chapter.4}
+\contentsline {section}{\numberline {3.1}Wst\IeC {\k e}p}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Zast\IeC {\k e}p}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Zast\IeC {\k e}powy}{19}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Dzia\IeC {\l }ania zast\IeC {\k e}pu}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Plan pracy zast\IeC {\k e}pu}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Obrz\IeC {\k e}dow\IeC {\'s}\IeC {\'c} zast\IeC {\k e}pu}{22}{section.4.2}
+\contentsline {chapter}{\chapternumberline {5}Autorzy tre\IeC {\'s}ci}{23}{chapter.5}
