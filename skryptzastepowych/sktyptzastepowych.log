@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2012 18:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2012 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1153,6 +1153,87 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box40
 \enitdp@description=\count181
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2010/09/21 v2.58 Date Time Package
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2009/10/02 v1.31
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks39
+\ex@=\dimen258
+)
+\c@padzeroesN=\count182
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english 2007/05/26
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-UKenglish.def
+File: fc-UKenglish 2007/06/14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-british.def
+File: fc-british 2007/06/14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-USenglish.def
+File: fc-USenglish 2007/06/14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-spanish.def
+File: fc-spanish.def 2007/05/26
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-portuges.def
+File: fc-portuges.def 2007/05/26
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-french.def
+File: fc-french.def 2007/05/26
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-german.def
+File: fc-german.def 2007/06/14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fmtcount/fc-italian.def
+File: fc-italian.def 2009/10/02 Italian support for fmtcount (Edoardo Pasca)
+)
+No configuration file fmtcount.cfg found.
+\@DT@modctr=\count183
+\@ordinalctr=\count184
+\@orgargctr=\count185
+\@strctr=\count186
+\@tmpstrctr=\count187
+\@DT@loopN=\count188
+\@DT@X=\count189
+
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
+nput line 344.
+
+)
+\@day=\count190
+\@month=\count191
+\@year=\count192
+\c@HOUR=\count193
+\c@HOURXII=\count194
+\c@MINUTE=\count195
+\c@TOHOUR=\count196
+\c@TOMINUTE=\count197
+\c@SECOND=\count198
+\currenthour=\count199
+\currentminute=\count200
+\currentsecond=\count201
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 292.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/datetime/dt-polish.def
+File: dt-polish.def 2004/10/31
+LaTeX Info: Redefining \datepolish on input line 63.
+)
+\@dtctr=\count202
+\dayofyear=\count203
+\dayofweek=\count204
+LaTeX Info: Redefining \today on input line 724.
+\dt@a=\toks40
+\dt@b=\toks41
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
 Now handling font encoding FML ...
@@ -1427,15 +1508,12 @@ LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen258
+\bigstrutjot=\dimen259
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2008/00/00 v3.10 algorithms environments
-\c@AlgoLine=\count182
+\c@AlgoLine=\count205
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
@@ -1468,12 +1546,12 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \skiplength=\skip192
 \algomargin=\skip193
 \skipalgocfslide=\skip194
-\algowidth=\dimen259
-\inoutsize=\dimen260
-\inoutline=\dimen261
-\interspacetitleruled=\dimen262
-\interspacealgoruled=\dimen263
-\interspacetitleboxruled=\dimen264
+\algowidth=\dimen260
+\inoutsize=\dimen261
+\inoutline=\dimen262
+\interspacetitleruled=\dimen263
+\interspacealgoruled=\dimen264
+\interspacetitleboxruled=\dimen265
 \algocf@inoutbox=\box41
 \algocf@inputbox=\box42
 \AlCapSkip=\skip195
@@ -1485,9 +1563,9 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \algoheightrule=\skip198
 \algotitleheightruledefault=\skip199
 \algotitleheightrule=\skip200
-\c@algocfline=\count183
-\c@algocfproc=\count184
-\c@algocf=\count185
+\c@algocfline=\count206
+\c@algocfproc=\count207
+\c@algocf=\count208
 \algocf@algoframe=\box46
 \algocf@algobox=\box47
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/placeins/placeins.sty
@@ -1500,12 +1578,7 @@ Package: amsmath 2000/07/18 v2.13 AMS math features
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks39
-\ex@=\dimen265
-))
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen266
@@ -1513,13 +1586,13 @@ Package: amsbsy 1999/11/29 v1.2d
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count186
+\inf@bad=\count209
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count187
-\leftroot@=\count188
+\uproot@=\count210
+\leftroot@=\count211
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count189
-\DOTSCASE@=\count190
+\classnum@=\count212
+\DOTSCASE@=\count213
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -1528,26 +1601,26 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen267
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count191
-\c@MaxMatrixCols=\count192
+\macc@depth=\count214
+\c@MaxMatrixCols=\count215
 \dotsspace@=\muskip11
-\c@parentequation=\count193
-\dspbrk@lvl=\count194
-\tag@help=\toks40
-\row@=\count195
-\column@=\count196
-\maxfields@=\count197
-\andhelp@=\toks41
+\c@parentequation=\count216
+\dspbrk@lvl=\count217
+\tag@help=\toks42
+\row@=\count218
+\column@=\count219
+\maxfields@=\count220
+\andhelp@=\toks43
 \eqnshift@=\dimen268
 \alignsep@=\dimen269
 \tagshift@=\dimen270
 \tagwidth@=\dimen271
 \totwidth@=\dimen272
 \lineht@=\dimen273
-\@envbody=\toks42
+\@envbody=\toks44
 \multlinegap=\skip202
 \multlinetaggap=\skip203
-\mathdisplay@stack=\toks43
+\mathdisplay@stack=\toks45
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
@@ -1558,9 +1631,9 @@ Package: glossaries 2012/05/21 v3.02 (NLCT)
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks44
-\XKV@tempa@toks=\toks45
-\XKV@depth=\count198
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
+\XKV@depth=\count221
 File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/base/mfirstuc.sty
@@ -1568,10 +1641,10 @@ Package: mfirstuc 2012/05/21 v1.06 (NLCT)
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count199
+\etb@tempcnta=\count222
 )
-\@glsmfirst=\toks46
-\@glsmrest=\toks47
+\@glsmfirst=\toks48
+\@glsmrest=\toks49
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -1584,8 +1657,8 @@ uage-mappings.tex))
 
 Package glossaries Warning: overriding \glossarymark on input line 558.
 
-\gls@level=\count200
-\@gls@tmpb=\toks48
+\gls@level=\count223
+\@gls@tmpb=\toks50
 \gls@tmplen=\skip204
 \glswrite=\write6
 
@@ -1595,10 +1668,10 @@ Package glossaries Warning: Overriding \printglossary on input line 3393.
 Package glossaries Warning: overriding `theglossary' environment on input line 
 3584.
 
-\glskeylisttok=\toks49
-\glslabeltok=\toks50
-\glsshorttok=\toks51
-\glslongtok=\toks52
+\glskeylisttok=\toks51
+\glslabeltok=\toks52
+\glsshorttok=\toks53
+\glslongtok=\toks54
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
 av.sty
@@ -1618,17 +1691,17 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTright=\skip207
 \LTpre=\skip208
 \LTpost=\skip209
-\LTchunksize=\count201
+\LTchunksize=\count224
 \LTcapwidth=\dimen274
 \LT@head=\box50
 \LT@firsthead=\box51
 \LT@foot=\box52
 \LT@lastfoot=\box53
-\LT@cols=\count202
-\LT@rows=\count203
-\c@LT@tables=\count204
-\c@LT@chunks=\count205
-\LT@p@ftn=\toks53
+\LT@cols=\count225
+\LT@rows=\count226
+\c@LT@tables=\count227
+\c@LT@chunks=\count228
+\LT@p@ftn=\toks55
 )
 \glsdescwidth=\skip210
 \glspagelistwidth=\skip211
@@ -1638,7 +1711,8 @@ sty
 Package: glossary-super 2011/03/28 v3.0 (NLCT)
  (/usr/local/texlive/2012/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count206
+Normal \count register pool exhausted, switching to extended pool.
+\c@tracingst=\count277
 \ST@wd=\dimen275
 \ST@rightskip=\skip212
 \ST@leftskip=\skip213
@@ -1661,86 +1735,86 @@ Package: glossary-tree 2011/03/28 v3.0 (NLCT)
 \glstreeindent=\skip215
 )) (/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2009/07/02 v2.20.1
-\thm@style=\toks54
-\thm@bodyfont=\toks55
-\thm@headfont=\toks56
-\thm@notefont=\toks57
-\thm@headpunct=\toks58
+\thm@style=\toks56
+\thm@bodyfont=\toks57
+\thm@headfont=\toks58
+\thm@notefont=\toks59
+\thm@headpunct=\toks60
 \thm@preskip=\skip216
 \thm@postskip=\skip217
 \thm@headsep=\skip218
-\dth@everypar=\toks59
+\dth@everypar=\toks61
 )
 (./sktyptzastepowych.aux)
 \openout1 = `sktyptzastepowych.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 38.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 40.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 40.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 40.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 40.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 40.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count207
+\scratchcounter=\count278
 \scratchdimen=\dimen286
 \scratchbox=\box55
-\nofMPsegments=\count208
-\nofMParguments=\count209
-\everyMPshowfont=\toks60
-\MPscratchCnt=\count210
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count281
 \MPscratchDim=\dimen287
-\MPnumerator=\count211
-\makeMPintoPDFobject=\count212
-\everyMPtoPDFconversion=\toks61
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks63
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1755,18 +1829,18 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \Ref on input line 38.
+LaTeX Info: Redefining \Ref on input line 40.
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 38.
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+Package hyperref Info: Link coloring ON on input line 40.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./sktyptzastepowych.out) (./sktyptzastepowych.out)
 \@outlinefile=\write7
 \openout7 = `sktyptzastepowych.out'.
 
-LaTeX Info: Redefining \Ref on input line 38.
+LaTeX Info: Redefining \Ref on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1811,37 +1885,33 @@ Dictionary: glossaries-dictionary, Language: English
 nary-Polish.dict
 Dictionary: glossaries-dictionary, Language: Polish 
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 39
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 41
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 39.
+(Font)              scaled to size 10.07397pt on input line 41.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 39.
+(Font)              scaled to size 7.63599pt on input line 41.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 39.
+(Font)              scaled to size 5.51999pt on input line 41.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 39.
+(Font)              scaled to size 10.07397pt on input line 41.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 39.
+(Font)              scaled to size 7.63599pt on input line 41.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 39.
+(Font)              scaled to size 5.51999pt on input line 41.
+ [1
 
-
-LaTeX Warning: No \author given.
-
-[1
-
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 42.
- (./sktyptzastepowych.toc
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 44.
+
+(./sktyptzastepowych.toc
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -2023,7 +2093,69 @@ Overfull \hbox (2.36801pt too wide) in paragraph at lines 7--8
 
 [21
 
-]) (./99-autorzy.tex [22])
+] [22]
+Overfull \hbox (10.19061pt too wide) in paragraph at lines 53--56
+\T1/futs/m/n/10 mu-sz¡ jed-nym zda-niem po-wie-dzie¢ co ro-bili: peª-nili sªu»b
+¦ w domu dziecka,
+ []
+
+
+Overfull \hbox (1.8585pt too wide) in paragraph at lines 63--64
+[]\T1/futs/m/n/10 szukanie wa-lizki z mi-lio-nem do-la-rów wg planu roz-da-nego
+ wcze-±niej; 
+ []
+
+
+Overfull \hbox (1.03644pt too wide) in paragraph at lines 64--65
+[]\T1/futs/m/n/10 pokonanie prze-ciw-ni-ków pod-czas po-dej-±cia pod naj-wy»-sz
+¡ mo»-liw¡
+ []
+
+
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [23]
+Overfull \hbox (5.10742pt too wide) in paragraph at lines 91--99
+[]\T1/futs/m/n/10 Jeden ele-ment zbiórki wy-pªywa
+ []
+
+
+Overfull \hbox (20.16518pt too wide) in paragraph at lines 100--104
+[]\T1/futs/m/n/10 Kiedy pla-nu-jesz zbiórk¦
+ []
+
+
+Overfull \hbox (10.3874pt too wide) in paragraph at lines 105--109
+[]\T1/futs/m/n/10 Zanim kto-kol-wiek za-pyta: czemu
+ []
+
+
+Overfull \hbox (13.26523pt too wide) in paragraph at lines 115--117
+[]\T1/futs/m/n/10 Obrz¦d po-wi-ta-nia, ga-
+ []
+
+
+Overfull \hbox (4.27452pt too wide) in paragraph at lines 115--117
+\T1/futs/m/n/10 Rada Za-st¦pu - tu prze-ka-»esz sprawy bie-»¡ce, tu roz-wi¡-»e-
+cie wspólny
+ []
+
+[24]
+Overfull \hbox (10.14075pt too wide) in paragraph at lines 118--122
+[]\T1/futs/m/n/10 To chyba
+ []
+
+
+Overfull \hbox (16.33899pt too wide) in paragraph at lines 123--128
+[]\T1/futs/m/n/10 Ciesz si¦ kiedy
+ []
+
+
+Overfull \hbox (2.95131pt too wide) in paragraph at lines 134--135
+[]\T1/futs/m/n/10 Staraj si¦ przy-naj-
+ []
+
+[25]) (./99-autorzy.tex [26])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -2032,37 +2164,37 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[23
+[27
 
 ]
 \tf@toc=\write8
 \openout8 = `sktyptzastepowych.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
  (./sktyptzastepowych.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
 Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
-(rerunfilecheck)             Checksum: 450364627884C6F61808CAD27622D8C2;2400.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
+(rerunfilecheck)             Checksum: 0797823CFF7957461BB9BB7D09B5AAC8;2806.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 24773 strings out of 493488
- 399375 string characters out of 3141326
- 544054 words of memory out of 3000000
- 27533 multiletter control sequences out of 15000+200000
+ 25611 strings out of 493488
+ 414626 string characters out of 3141326
+ 587503 words of memory out of 3000000
+ 28323 multiletter control sequences out of 15000+200000
  87018 words of font info for 76 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 61i,12n,55p,2691b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,12n,55p,2691b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/te
 xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (27 pages, 113200 bytes).
+Output written on sktyptzastepowych.pdf (31 pages, 128959 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 195 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
