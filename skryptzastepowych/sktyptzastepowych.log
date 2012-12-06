@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 DEC 2012 02:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  6 DEC 2012 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1850,14 +1850,14 @@ LaTeX Info: Redefining \Ref on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* h-part:(L,W,R)=(14.22636pt, 392.64806pt, 14.22636pt)
 * v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=307.28978pt
+* \textwidth=392.64806pt
 * \textheight=512.14963pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
 * \topmargin=-59.65836pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
@@ -1944,251 +1944,83 @@ l.1 \chapter
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
-
-Overfull \hbox (1.84172pt too wide) in paragraph at lines 17--27
-\T1/futs/m/n/10 mu-siaª mie¢ sprawny w¦ch). Sku-tecz-no±¢ sco-utingu udo-wod-ni
-ª, kiedy jego
- []
-
-[3]
-Overfull \hbox (1.61966pt too wide) in paragraph at lines 28--29
-\T1/futs/m/n/10 bur-skimi. Baden-Powell jako puª-kow-nik do-wo-dziª dzie-si¦-ci
-o-krot-nie mniej-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [3]
+Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [4]
 [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [6]
-Overfull \hbox (8.00551pt too wide) in paragraph at lines 38--39
-[]\T1/futs/m/n/10 2. lipca 1913 roku 43 skau-tów z trzech za-bo-rów wy-je-chaªo
- na III Wszech-
- []
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \hbox (3.59003pt too wide) in paragraph at lines 38--39
-\T1/futs/m/n/10 Tu» przed wy-bu-chem I wojny ±wia-to-wej pol-ski skau-ting li-c
-zyª po-nad 15.000
- []
-
-
-Overfull \hbox (5.2823pt too wide) in paragraph at lines 40--41
-\T1/futs/m/n/10 uwag¦ na do-mi-nu-j¡cy, nad-mier-nie roz-bu-do-wany w har-cer-s
-twie mi-li-ta-ryzm,
- []
-
-
+ [8]
+[9]
 Underfull \vbox (badness 4556) has occurred while \output is active []
-
- [7]
-Overfull \hbox (4.9084pt too wide) in paragraph at lines 44--45
-[]\T1/futs/m/n/10 Wiele byªo przy-kªa-dów udziaªu har-ce-rzy w dzia-ªa-niach wo
--jen-nych Kam-
- []
-
-[8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Overfull \hbox (4.44849pt too wide) in paragraph at lines 48--49
-[]\T1/futs/m/n/10 23 marca za-szªa jed-nak ko-niecz-no±¢ prze-pro-wa-dze-nia ak
--cji in-nego typu
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Overfull \hbox (8.07622pt too wide) in paragraph at lines 52--53
-\T1/futs/m/n/10 dol-nie, jako »e ofi-cjal-nie ZHP zo-staª po-wo-ªany do »y-cia 
-de-cy-zj¡ wªadz o±wia-
- []
-
-
-Overfull \hbox (2.17722pt too wide) in paragraph at lines 52--53
-\T1/futs/m/n/10 to-wych do-piero 30. grud-nia 1944 roku. Nowe wªa-dze zda-waªy 
-so-bie spraw¦
- []
-
-[11]
 Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [11])
+(./03-systemzastepowy.tex
+Overfull \hbox (0.18036pt too wide) in paragraph at lines 66--1
+[]\T1/futs/m/n/10 Dopiero okr¡-gªy stóª w roku 1989 i na-sta-nie no-wego po-rz¡
+dku w Pol-sce spo-wo-do-waªy praw-
+ []
+
+
+Underfull \vbox (badness 1348) has occurred while \output is active []
 
  [12]
-Overfull \hbox (18.33229pt too wide) in paragraph at lines 58--59
-\T1/futs/m/n/10 wy-wa¢ mªo-dzie» pa-trio-tycz-nie pod du-cho-wym prze-wod-nic-t
-wem PZPR. Stwier-
- []
+[13] [14
 
-
-Underfull \vbox (badness 4556) has occurred while \output is active []
-
- [13]
-Overfull \hbox (6.38232pt too wide) in paragraph at lines 64--65
-\T1/futs/m/n/10 Naj-wa»-niej-szym ich osi¡-gni¦-ciem byªo stwo-rze-nie wªa-sneg
-o sys-temu stopni
- []
-
-
-Overfull \hbox (7.5718pt too wide) in paragraph at lines 64--65
-\T1/futs/m/n/10 za-wie-szono wtedy wi¦k-szo±¢ zwi¡z-ków i sto-wa-rzy-sze«). Na 
-po-rz¡dku dzien-
- []
-
-
-Overfull \hbox (9.03055pt too wide) in paragraph at lines 64--65
-\T1/futs/m/n/10 cho¢ apa-rat eta-towy byª in-sty-tu-cj¡ jedn¡ z naj-bar-dziej o
-d-por-nych na zmiany.
- []
-
-
-Underfull \vbox (badness 4556) has occurred while \output is active []
-
- [14])
-(./03-systemzastepowy.tex
-Overfull \hbox (18.74449pt too wide) in paragraph at lines 66--1
-\T1/futs/m/n/10 sce spo-wo-do-waªy praw-dziwe, b¦-d¡ce po-wro-tem do tra-dy-cji
-, zmiany w Zwi¡zku
- []
-
-
-Overfull \hbox (5.78903pt too wide) in paragraph at lines 66--1
-\T1/futs/m/n/10 do-ko-nane po cz¦-±ci na IX (XXVI wg. przy-wró-co-nej na nim nu
--me-ra-cji przed-
- []
-
-
-Overfull \hbox (1.38782pt too wide) in paragraph at lines 66--1
-\T1/futs/m/n/10 wo-jen-nej) Zje¹-dzie w 1989 roku. Przy-wró-cono przed-wo-jenne
- Prawo i Przy-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-[16] [17
-
-]
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 23--29
-\T1/futs/m/n/10 cych z tego sa-mego ±ro-do-wi-ska (szkoªa - klasa, osie-dle - p
-o-dwórko). Liczba
- []
-
-[18]
+] [15]
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 40.
 
  (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
-) [19]
-[20]) (./04-dzialaniazastepu.tex [21] [22
+) [16] [17]) (./04-dzialaniazastepu.tex [18]
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+ [19
 
 ]
-Overfull \hbox (2.36801pt too wide) in paragraph at lines 7--8
-[]\T1/futs/b/n/10 Szczegóªowej cha-rak-te-ry-styki za-st¦pu \T1/futs/m/n/10 ---
- tu za-miesz-czamy opis ka»-
+[20]
+Overfull \hbox (6.71503pt too wide) in paragraph at lines 100--104
+[]\T1/futs/m/n/10 Kiedy pla-nu-jesz zbiórk¦ pa-mi¦-taj, »e zbyt
  []
 
-[23] [24]
-Overfull \hbox (10.19061pt too wide) in paragraph at lines 53--56
-\T1/futs/m/n/10 mu-sz¡ jed-nym zda-niem po-wie-dzie¢ co ro-bili: peª-nili sªu»b
-¦ w domu dziecka,
- []
-
-
-Overfull \hbox (1.8585pt too wide) in paragraph at lines 63--64
-[]\T1/futs/m/n/10 szukanie wa-lizki z mi-lio-nem do-la-rów wg planu roz-da-nego
- wcze-±niej; 
+[21]
+Overfull \hbox (4.3527pt too wide) in paragraph at lines 110--114
+[]\T1/futs/m/n/10 Nie sied¹ z boku przy-gl¡-da-j¡c si¦ har-ce-rzom. We¹ udziaª
  []
 
 
-Overfull \hbox (1.03644pt too wide) in paragraph at lines 64--65
-[]\T1/futs/m/n/10 pokonanie prze-ciw-ni-ków pod-czas po-dej-±cia pod naj-wy»-sz
-¡ mo»-liw¡
+Overfull \hbox (4.05115pt too wide) in paragraph at lines 115--117
+[]\T1/futs/m/n/10 Obrz¦d po-wi-ta-nia, ga-w¦da - to mo»e by¢
  []
 
 
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
- [25]
-Overfull \hbox (5.10742pt too wide) in paragraph at lines 91--99
-[]\T1/futs/m/n/10 Jeden ele-ment zbiórki wy-pªywa
+Overfull \hbox (1.37392pt too wide) in paragraph at lines 118--122
+[]\T1/futs/m/n/10 To chyba ja-sne? Przez przy-
  []
 
 
-Overfull \hbox (20.16518pt too wide) in paragraph at lines 100--104
-[]\T1/futs/m/n/10 Kiedy pla-nu-jesz zbiórk¦
+Overfull \hbox (8.95885pt too wide) in paragraph at lines 123--128
+[]\T1/futs/m/n/10 Ciesz si¦ kiedy chªopcy maj¡ wªa-
  []
 
+[22] [23] [24] [25]) (./06-techniki.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \hbox (10.3874pt too wide) in paragraph at lines 105--109
-[]\T1/futs/m/n/10 Zanim kto-kol-wiek za-pyta: czemu
- []
+ [26]
+[27] [28
 
+] [29] [30]) (./10-biblioteczka.tex [31] [32
 
-Overfull \hbox (13.26523pt too wide) in paragraph at lines 115--117
-[]\T1/futs/m/n/10 Obrz¦d po-wi-ta-nia, ga-
- []
-
-
-Overfull \hbox (4.27452pt too wide) in paragraph at lines 115--117
-\T1/futs/m/n/10 Rada Za-st¦pu - tu prze-ka-»esz sprawy bie-»¡ce, tu roz-wi¡-»e-
-cie wspólny
- []
-
-[26]
-Overfull \hbox (10.14075pt too wide) in paragraph at lines 118--122
-[]\T1/futs/m/n/10 To chyba
- []
-
-
-Overfull \hbox (16.33899pt too wide) in paragraph at lines 123--128
-[]\T1/futs/m/n/10 Ciesz si¦ kiedy
- []
-
-
-Overfull \hbox (2.95131pt too wide) in paragraph at lines 134--135
-[]\T1/futs/m/n/10 Staraj si¦ przy-naj-
- []
-
-[27] [28]
-Overfull \hbox (1.71233pt too wide) in paragraph at lines 193--197
-\T1/futs/m/n/10 Cza-sem po-trzeba Twar-dej kon-fron-ta-cji po-gl¡-dów z za-in-t
-e-re-so-wa-nymi stro-
- []
-
-[29] [30]
-Overfull \hbox (3.34389pt too wide) in paragraph at lines 227--228
-[]\T1/futs/m/n/10 Pierwszy to od-su-ni¦-cie har-ce-rza od pracy, tzn. cho-dzi z
- za-st¦-pem wsz¦-
- []
-
-
-Overfull \hbox (10.8578pt too wide) in paragraph at lines 233--234
-\T1/futs/m/n/10 rze-czo-wych w stylu np. kto± przy-cho-dzi wzo-rowo umun-du-ro-
-wany na zbiórk¦
- []
-
-[31]) (./06-techniki.tex [32]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [33
-
-]
-Underfull \vbox (badness 1132) has occurred while \output is active []
-
- [34]
-Overfull \hbox (4.17172pt too wide) in paragraph at lines 52--56
-\T1/futs/m/n/10 al-fa-bet te-le-gra-ficzny zwany wªa-±nie al-fa-be-tem Morse'a.
- Dzi¦ki temu mo»na
- []
-
-) (./10-biblioteczka.tex [35] [36
-
-]) (./99-autorzy.tex [37] [38])
+]) (./99-autorzy.tex
+[33] [34])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -2197,7 +2029,7 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[39
+[35
 
 ]
 \tf@toc=\write8
@@ -2213,21 +2045,21 @@ Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 25655 strings out of 493488
- 415152 string characters out of 3141326
- 587505 words of memory out of 3000000
+ 25651 strings out of 493488
+ 415124 string characters out of 3141326
+ 588512 words of memory out of 3000000
  28337 multiletter control sequences out of 15000+200000
  87018 words of font info for 76 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 61i,13n,55p,2691b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,13n,55p,2691b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/te
 xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (43 pages, 158051 bytes).
+Output written on sktyptzastepowych.pdf (39 pages, 153598 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 84 named destinations out of 1000 (max. 500000)
+ 351 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
