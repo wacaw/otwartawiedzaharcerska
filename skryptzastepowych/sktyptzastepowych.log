@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 03:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 03:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2390,7 +2390,7 @@ owi.
 File: grafiki/kara.png Graphic file (type png)
  <use grafiki/kara.png>
 Package pdftex.def Info: grafiki/kara.png used on input line 274.
-(pdftex.def)             Requested size: 327.77354pt x 177.63818pt.
+(pdftex.def)             Requested size: 291.35735pt x 157.9018pt.
 
 <grafiki/nasluch.png, id=364, 105.2733pt x 85.2786pt>
 File: grafiki/nasluch.png Graphic file (type png)
@@ -2403,63 +2403,66 @@ File: grafiki/siec.png Graphic file (type png)
 
 <use grafiki/siec.png>
 Package pdftex.def Info: grafiki/siec.png used on input line 289.
-(pdftex.def)             Requested size: 327.77354pt x 260.97542pt.
+(pdftex.def)             Requested size: 182.09764pt x 144.9799pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30 <./grafiki/kara.png> <./grafiki/nasluch.png>] [31 <./grafiki/siec.png>]
+
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [30 <./grafiki/kara.png> <./grafiki/nasluch.png>]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 306.
-
+ [31 <./grafiki/siec.png>]
 Overfull \hbox (1.48103pt too wide) in paragraph at lines 317--318
 []\T1/futs/m/n/10 Sprawna sªu»ba w kuchni to nie tylko punk-tu-alne po-siªki, p
 i¦k-nie wy-gl¡-da-j¡ce, pach-
  []
 
-[32]) (./05-stopnieisprawnosci.tex
+) (./05-stopnieisprawnosci.tex
 Overfull \hbox (1.72224pt too wide) in paragraph at lines 321--1
 []\T1/futs/m/n/10 Pami¦taj Druhu Za-st¦-powy! Obóz to wspa-niaªa za-bawa, nie-s
 a-mo-wite przy-gody, wiel-
  []
 
-[33] [34
-
-] <grafiki/krzyz.png, id=390, 95.8782pt x 85.2786pt>
+[32] <grafiki/krzyz.png, id=381, 95.8782pt x 85.2786pt>
 File: grafiki/krzyz.png Graphic file (type png)
 
 <use grafiki/krzyz.png>
 Package pdftex.def Info: grafiki/krzyz.png used on input line 5.
 (pdftex.def)             Requested size: 113.81102pt x 101.23161pt.
- [35 <./grafiki/krzyz.png>]
-<grafiki/sprawnosc.png, id=396, 84.7968pt x 85.2786pt>
+ [33
+
+ <./grafiki/krzyz.png>]
+<grafiki/sprawnosc.png, id=388, 84.7968pt x 85.2786pt>
 File: grafiki/sprawnosc.png Graphic file (type png)
 
 <use grafiki/sprawnosc.png>
 Package pdftex.def Info: grafiki/sprawnosc.png used on input line 34.
 (pdftex.def)             Requested size: 85.35826pt x 85.84961pt.
- [36 <./grafiki/sprawnosc.png>] [37]
+ [34 <./grafiki/sprawnosc.png>] [35]
 Overfull \hbox (6.23294pt too wide) in paragraph at lines 76--77
 []\T1/futs/m/n/10 zaprojektowaª i wy-ko-naª drobny przed-miot pio-nierki obo-zo
 -wej (dro-go-wskaz, ªawka,
  []
 
-) (./06-techniki.tex [38]
+) (./06-techniki.tex [36]
 Overfull \hbox (1.8682pt too wide) in paragraph at lines 20--21
 \T1/futs/m/n/10 i Kar-to-gra-fii. ‘wietne mapy s¡ do-st¦pne tak»e na stro-nie p
 ro-jektu http://geoportal.gov.pl 
  []
 
-[39
+[37
 
-] <grafiki/rzeka.png, id=418, 310.15875pt x 134.75343pt>
+] <grafiki/rzeka.png, id=409, 310.15875pt x 134.75343pt>
 File: grafiki/rzeka.png Graphic file (type png)
 
 <use grafiki/rzeka.png>
 Package pdftex.def Info: grafiki/rzeka.png used on input line 31.
 (pdftex.def)             Requested size: 254.9356pt x 110.75966pt.
 
-<grafiki/pomiardrzewa.png, id=419, 207.77625pt x 184.43906pt>
+<grafiki/pomiardrzewa.png, id=410, 207.77625pt x 184.43906pt>
 File: grafiki/pomiardrzewa.png Graphic file (type png)
 
 <use grafiki/pomiardrzewa.png>
@@ -2474,21 +2477,21 @@ ce zo-ba-czy wierz-cho-ªek drzewa.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40 <./grafiki/rzeka.png>]
-<grafiki/lacznik.png, id=427, 77.5698pt x 85.2786pt>
+[38 <./grafiki/rzeka.png>]
+<grafiki/lacznik.png, id=418, 77.5698pt x 85.2786pt>
 File: grafiki/lacznik.png Graphic file (type png)
  <use grafiki/lacznik.png>
 Package pdftex.def Info: grafiki/lacznik.png used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 93.84836pt.
 
-<grafiki/ulamkowy1.png, id=428, 489.32813pt x 67.0003pt>
+<grafiki/ulamkowy1.png, id=419, 489.32813pt x 67.0003pt>
 File: grafiki/ulamkowy1.png Graphic file (type png)
 
 <use grafiki/ulamkowy1.png>
 Package pdftex.def Info: grafiki/ulamkowy1.png used on input line 78.
 (pdftex.def)             Requested size: 327.77354pt x 44.88075pt.
 
-<grafiki/ulamkowy2.png, id=429, 368.87813pt x 63.23625pt>
+<grafiki/ulamkowy2.png, id=420, 368.87813pt x 63.23625pt>
 File: grafiki/ulamkowy2.png Graphic file (type png)
 
 <use grafiki/ulamkowy2.png>
@@ -2497,16 +2500,16 @@ Package pdftex.def Info: grafiki/ulamkowy2.png used on input line 79.
 
 Underfull \vbox (badness 3019) has occurred while \output is active []
 
- [41 <./grafiki/pomiardrzewa.png> <./grafiki/lacznik.png>]
-<grafiki/czekoladka.png, id=435, 376.40625pt x 127.22531pt>
+ [39 <./grafiki/pomiardrzewa.png> <./grafiki/lacznik.png>]
+<grafiki/czekoladka.png, id=427, 376.40625pt x 127.22531pt>
 File: grafiki/czekoladka.png Graphic file (type png)
 
 <use grafiki/czekoladka.png>
 Package pdftex.def Info: grafiki/czekoladka.png used on input line 88.
 (pdftex.def)             Requested size: 327.77354pt x 110.79576pt.
-) (./10-biblioteczka.tex [42 <./grafiki/ulamkowy1.png> <./grafiki/ulamkowy2.png
+) (./10-biblioteczka.tex [40 <./grafiki/ulamkowy1.png> <./grafiki/ulamkowy2.png
 > <./grafiki/czekoladka.png>]
-<grafiki/biblioteczka.png, id=442, 218.4963pt x 160.9212pt>
+<grafiki/biblioteczka.png, id=434, 218.4963pt x 160.9212pt>
 File: grafiki/biblioteczka.png Graphic file (type png)
 
 <use grafiki/biblioteczka.png>
@@ -2522,9 +2525,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 []\T1/futs/m/n/9 M. Ka-pi-szew-ska - Ksi¦ga Har-ców
  []
 
-[43
+[41
 
- <./grafiki/biblioteczka.png>]) (./99-autorzy.tex [44])
+ <./grafiki/biblioteczka.png>]) (./99-autorzy.tex [42])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -2533,7 +2536,7 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[45
+[43
 
 ]
 \tf@toc=\write8
@@ -2549,8 +2552,8 @@ Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 26126 strings out of 493488
- 422842 string characters out of 3141326
+ 26124 strings out of 493488
+ 422828 string characters out of 3141326
  607044 words of memory out of 3000000
  28725 multiletter control sequences out of 15000+200000
  93815 words of font info for 88 fonts, out of 3000000 for 9000
@@ -2561,10 +2564,10 @@ exlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
 xlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (49 pages, 3468324 bytes).
+Output written on sktyptzastepowych.pdf (47 pages, 3468073 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
- 380 compressed objects within 4 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 490 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
  439 words of extra memory for PDF output out of 10000 (max. 10000000)
 
