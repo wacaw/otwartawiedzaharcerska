@@ -1,5 +1,5 @@
 \documentclass[10pt,polish,a5paper,final,twoside,fleqn,onecolumn]{skryptzast}
-\usepackage[top=1.5cm, bottom=1.5cm, left=0.5cm, right=0.5cm]{geometry}
+\usepackage[top=1.5cm, bottom=1.5cm, left=1cm, right=1cm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[OT4]{fontenc}
 
@@ -8,7 +8,7 @@
 \usepackage{enumitem}
 
 \usepackage{datetime}
-
+\usepackage{multicol}
 \usepackage[widespace]{fourier}   % Use Utopia font set
 \usepackage[scaled=0.875]{helvet} % Use Helvetica for sans-serif
 \renewcommand{\ttdefault}{lmtt}   % Use Lucida Mono for monotype
@@ -18,8 +18,8 @@
 \usepackage{placeins}
 \usepackage{amsmath}
 \usepackage{graphicx} 
-
-
+\usepackage{floatflt}
+\usepackage{wrapfig}
 \usepackage{xspace} 
 \usepackage[style=long,nonumberlist]{glossaries}
 
@@ -34,12 +34,35 @@
 
 \title{Skrypt kursu zastępowych}
 \author{Praca grupowa}
-\date{data utworzenia: \today ~\currenttime}
+\date{data utworzenia: \today}
 
+\hyphenation{hu-f-ce no-we lwo-wskim spa-do-chro-niar-stwo szy-ty m-o-ż-e} 
 
 \begin{document}
-\maketitle\cleardoublepage
+\maketitle
+\begin{figure}[h]
+\centering
+  \includegraphics[width=6cm]{grafiki/lilijka.jpg}
+\end{figure}
+\bigskip 
+\begin{center}
+\textbf{ZHR}
 
+III Poznański Hufiec Harcerzy "Horyzont"
+
+Kurs Zastępowych "\textbf{WSCHÓD I}"
+\end{center}
+
+\clearpage
+
+\begin{aquote}{Robert Baden Powell}
+Gdybym dziś mógł wybierać miejsce, które chciałbym zajmować w ruchu, to chciałbym być zastępowym.
+\end{aquote}
+ 
+\begin{aquote}{Roland E. Philipsl}
+System zastępowy nie jest jedną z wielu metod organizowania pracy skautowej, lecz jest  on jedyną metodą.
+\end{aquote}
+\cleardoublepage
 \pagenumbering{Roman}\pagestyle{skryptzast}%
 \tableofcontents* \cleardoublepage%
 
@@ -48,6 +71,7 @@
 \input{02-historia.tex}
 \input{03-systemzastepowy.tex}
 \input{04-dzialaniazastepu.tex}
+\input{05-stopnieisprawnosci.tex}
 \input{06-techniki.tex}
 \input{10-biblioteczka.tex}
 \input{99-autorzy.tex}

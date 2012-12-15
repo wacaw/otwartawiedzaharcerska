@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  6 DEC 2012 21:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 03:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1234,6 +1234,54 @@ LaTeX Info: Redefining \today on input line 724.
 \dt@a=\toks40
 \dt@b=\toks41
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count205
+\mult@box=\box41
+\multicol@leftmargin=\dimen259
+\c@unbalance=\count206
+\c@collectmore=\count207
+\doublecol@number=\count208
+\multicoltolerance=\count209
+\multicolpretolerance=\count210
+\full@width=\dimen260
+\page@free=\dimen261
+\premulticols=\dimen262
+\postmulticols=\dimen263
+\multicolsep=\skip187
+\multicolbaselineskip=\skip188
+\partial@page=\box42
+\last@line=\box43
+\mult@rightbox=\box44
+\mult@grightbox=\box45
+\mult@gfirstbox=\box46
+\mult@firstbox=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\c@columnbadness=\count211
+\c@finalcolumnbadness=\count212
+\last@try=\dimen264
+\multicolovershoot=\dimen265
+\multicolundershoot=\dimen266
+\mult@nat@firstbox=\box65
+\colbreak@box=\box66
+\multicol@sort@counter=\count213
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
 Now handling font encoding FML ...
@@ -1508,11 +1556,11 @@ LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen259
+\bigstrutjot=\dimen267
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2008/00/00 v3.10 algorithms environments
-\c@AlgoLine=\count205
+\c@AlgoLine=\count214
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
@@ -1538,42 +1586,42 @@ Package `algorithm2e' Release 4.01 -- december 14 2009 --
 subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 - Author: Christophe Fiorio (fiorio@lirmm.fr)
 ********************************************************
-\skiptotal=\skip187
-\skiplinenumber=\skip188
-\skiprule=\skip189
-\skiphlne=\skip190
-\skiptext=\skip191
-\skiplength=\skip192
-\algomargin=\skip193
-\skipalgocfslide=\skip194
-\algowidth=\dimen260
-\inoutsize=\dimen261
-\inoutline=\dimen262
-\interspacetitleruled=\dimen263
-\interspacealgoruled=\dimen264
-\interspacetitleboxruled=\dimen265
-\algocf@inoutbox=\box41
-\algocf@inputbox=\box42
-\AlCapSkip=\skip195
-\AlCapHSkip=\skip196
-\algocf@nlbox=\box43
-\algocf@hangingbox=\box44
-\algocf@capbox=\box45
-\algoheightruledefault=\skip197
-\algoheightrule=\skip198
-\algotitleheightruledefault=\skip199
-\algotitleheightrule=\skip200
-\c@algocfline=\count206
-\c@algocfproc=\count207
-\c@algocf=\count208
-\algocf@algoframe=\box46
-\algocf@algobox=\box47
+\skiptotal=\skip189
+\skiplinenumber=\skip190
+\skiprule=\skip191
+\skiphlne=\skip192
+\skiptext=\skip193
+\skiplength=\skip194
+\algomargin=\skip195
+\skipalgocfslide=\skip196
+\algowidth=\dimen268
+\inoutsize=\dimen269
+\inoutline=\dimen270
+\interspacetitleruled=\dimen271
+\interspacealgoruled=\dimen272
+\interspacetitleboxruled=\dimen273
+\algocf@inoutbox=\box67
+\algocf@inputbox=\box68
+\AlCapSkip=\skip197
+\AlCapHSkip=\skip198
+\algocf@nlbox=\box69
+\algocf@hangingbox=\box70
+\algocf@capbox=\box71
+\algoheightruledefault=\skip199
+\algoheightrule=\skip200
+\algotitleheightruledefault=\skip201
+\algotitleheightrule=\skip202
+\c@algocfline=\count215
+\c@algocfproc=\count216
+\c@algocf=\count217
+\algocf@algoframe=\box72
+\algocf@algobox=\box73
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip201
+\@mathmargin=\skip203
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -1581,48 +1629,79 @@ Package: amstext 2000/06/29 v2.01
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen266
+\pmbraise@=\dimen274
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count209
+\inf@bad=\count218
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count210
-\leftroot@=\count211
+\uproot@=\count219
+\leftroot@=\count220
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count212
-\DOTSCASE@=\count213
+\classnum@=\count221
+\DOTSCASE@=\count222
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box48
-\strutbox@=\box49
-\big@size=\dimen267
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+\big@size=\dimen275
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count214
-\c@MaxMatrixCols=\count215
+\macc@depth=\count223
+\c@MaxMatrixCols=\count224
 \dotsspace@=\muskip11
-\c@parentequation=\count216
-\dspbrk@lvl=\count217
+\c@parentequation=\count225
+\dspbrk@lvl=\count226
 \tag@help=\toks42
-\row@=\count218
-\column@=\count219
-\maxfields@=\count220
+\row@=\count227
+\column@=\count228
+Normal \count register pool exhausted, switching to extended pool.
+\maxfields@=\count277
 \andhelp@=\toks43
-\eqnshift@=\dimen268
-\alignsep@=\dimen269
-\tagshift@=\dimen270
-\tagwidth@=\dimen271
-\totwidth@=\dimen272
-\lineht@=\dimen273
+\eqnshift@=\dimen276
+\alignsep@=\dimen277
+\tagshift@=\dimen278
+\tagwidth@=\dimen279
+\totwidth@=\dimen280
+\lineht@=\dimen281
 \@envbody=\toks44
-\multlinegap=\skip202
-\multlinetaggap=\skip203
+\multlinegap=\skip204
+\multlinetaggap=\skip205
 \mathdisplay@stack=\toks45
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/floatflt/floatflt.sty
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count278
+\figbox=\box76
+\tabbox=\box77
+\pagebox=\box78
+\ffigcount=\count279
+\ftabcount=\count280
+\fftest=\count281
+\hangcount=\count282
+\nosuccesstryfig=\count283
+\nosuccesstrytab=\count284
+\figgutter=\dimen282
+\tabgutter=\dimen283
+\htdone=\dimen284
+\pageht=\dimen285
+\startpageht=\dimen286
+\tabbredd=\dimen287
+\floatfltwidth=\dimen288
+\fltitemwidth=\dimen289
+\outputpretest=\toks46
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen290
+\WF@size=\dimen291
+\c@WF@wrappedlines=\count285
+\WF@box=\box79
+\WF@everypar=\toks47
+Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2012/05/21 v3.02 (NLCT)
@@ -1631,9 +1710,9 @@ Package: glossaries 2012/05/21 v3.02 (NLCT)
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
-\XKV@depth=\count221
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+\XKV@depth=\count286
 File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/base/mfirstuc.sty
@@ -1641,10 +1720,10 @@ Package: mfirstuc 2012/05/21 v1.06 (NLCT)
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count222
+\etb@tempcnta=\count287
 )
-\@glsmfirst=\toks48
-\@glsmrest=\toks49
+\@glsmfirst=\toks50
+\@glsmrest=\toks51
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -1657,9 +1736,9 @@ uage-mappings.tex))
 
 Package glossaries Warning: overriding \glossarymark on input line 558.
 
-\gls@level=\count223
-\@gls@tmpb=\toks50
-\gls@tmplen=\skip204
+\gls@level=\count288
+\@gls@tmpb=\toks52
+\gls@tmplen=\skip206
 \glswrite=\write6
 
 Package glossaries Warning: Overriding \printglossary on input line 3393.
@@ -1668,10 +1747,10 @@ Package glossaries Warning: Overriding \printglossary on input line 3393.
 Package glossaries Warning: overriding `theglossary' environment on input line 
 3584.
 
-\glskeylisttok=\toks51
-\glslabeltok=\toks52
-\glsshorttok=\toks53
-\glslongtok=\toks54
+\glskeylisttok=\toks53
+\glslabeltok=\toks54
+\glsshorttok=\toks55
+\glslongtok=\toks56
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
 av.sty
@@ -1680,141 +1759,140 @@ Package: glossary-hypernav 2007/07/04 v1.01 (NLCT)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
 ty
 Package: glossary-list 2011/03/28 v3.0 (NLCT)
-\glslistdottedwidth=\skip205
+\glslistdottedwidth=\skip207
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
 ty
 Package: glossary-long 2011/03/28 v3.0 (NLCT)
  (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip206
-\LTright=\skip207
-\LTpre=\skip208
-\LTpost=\skip209
-\LTchunksize=\count224
-\LTcapwidth=\dimen274
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count225
-\LT@rows=\count226
-\c@LT@tables=\count227
-\c@LT@chunks=\count228
-\LT@p@ftn=\toks55
+\LTleft=\skip208
+\LTright=\skip209
+\LTpre=\skip210
+\LTpost=\skip211
+\LTchunksize=\count289
+\LTcapwidth=\dimen292
+\LT@head=\box80
+\LT@firsthead=\box81
+\LT@foot=\box82
+\LT@lastfoot=\box83
+\LT@cols=\count290
+\LT@rows=\count291
+\c@LT@tables=\count292
+\c@LT@chunks=\count293
+\LT@p@ftn=\toks57
 )
-\glsdescwidth=\skip210
-\glspagelistwidth=\skip211
+\glsdescwidth=\skip212
+\glspagelistwidth=\skip213
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-super.
 sty
 Package: glossary-super 2011/03/28 v3.0 (NLCT)
  (/usr/local/texlive/2012/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-Normal \count register pool exhausted, switching to extended pool.
-\c@tracingst=\count277
-\ST@wd=\dimen275
-\ST@rightskip=\skip212
-\ST@leftskip=\skip213
-\ST@parfillskip=\skip214
-\ST@pageleft=\dimen276
-\ST@headht=\dimen277
-\ST@tailht=\dimen278
-\ST@pagesofar=\dimen279
-\ST@pboxht=\dimen280
-\ST@lineht=\dimen281
-\ST@stretchht=\dimen282
-\ST@prevht=\dimen283
-\ST@toadd=\dimen284
-\ST@dimen=\dimen285
-\ST@pbox=\box54
+\c@tracingst=\count294
+\ST@wd=\dimen293
+\ST@rightskip=\skip214
+\ST@leftskip=\skip215
+\ST@parfillskip=\skip216
+\ST@pageleft=\dimen294
+\ST@headht=\dimen295
+\ST@tailht=\dimen296
+\ST@pagesofar=\dimen297
+\ST@pboxht=\dimen298
+\ST@lineht=\dimen299
+\ST@stretchht=\dimen300
+\ST@prevht=\dimen301
+\ST@toadd=\dimen302
+\ST@dimen=\dimen303
+\ST@pbox=\box84
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
 ty
 Package: glossary-tree 2011/03/28 v3.0 (NLCT)
-\glstreeindent=\skip215
+\glstreeindent=\skip217
 )) (/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2009/07/02 v2.20.1
-\thm@style=\toks56
-\thm@bodyfont=\toks57
-\thm@headfont=\toks58
-\thm@notefont=\toks59
-\thm@headpunct=\toks60
-\thm@preskip=\skip216
-\thm@postskip=\skip217
-\thm@headsep=\skip218
-\dth@everypar=\toks61
+\thm@style=\toks58
+\thm@bodyfont=\toks59
+\thm@headfont=\toks60
+\thm@notefont=\toks61
+\thm@headpunct=\toks62
+\thm@preskip=\skip218
+\thm@postskip=\skip219
+\thm@headsep=\skip220
+\dth@everypar=\toks63
 )
 (./sktyptzastepowych.aux)
 \openout1 = `sktyptzastepowych.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 40.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 41.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 41.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 40.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 41.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 40.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 41.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 40.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 41.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen286
-\scratchbox=\box55
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks62
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen287
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks63
+\scratchcounter=\count295
+\scratchdimen=\dimen304
+\scratchbox=\box85
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen305
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks65
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1829,18 +1907,18 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \Ref on input line 40.
-\AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 40.
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \Ref on input line 41.
+\AtBeginShipoutBox=\box86
+Package hyperref Info: Link coloring ON on input line 41.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./sktyptzastepowych.out) (./sktyptzastepowych.out)
 \@outlinefile=\write7
 \openout7 = `sktyptzastepowych.out'.
 
-LaTeX Info: Redefining \Ref on input line 40.
+LaTeX Info: Redefining \Ref on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1850,14 +1928,14 @@ LaTeX Info: Redefining \Ref on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(14.22636pt, 392.64806pt, 14.22636pt)
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
 * v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=392.64806pt
+* \textwidth=364.1953pt
 * \textheight=512.14963pt
-* \oddsidemargin=-58.04362pt
-* \evensidemargin=-58.04362pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-59.65836pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
@@ -1885,142 +1963,568 @@ Dictionary: glossaries-dictionary, Language: English
 nary-Polish.dict
 Dictionary: glossaries-dictionary, Language: Polish 
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 41
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 43
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 41.
+(Font)              scaled to size 10.07397pt on input line 43.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 41.
+(Font)              scaled to size 7.63599pt on input line 43.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 41.
+(Font)              scaled to size 5.51999pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 41.
+(Font)              scaled to size 10.07397pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 41.
+(Font)              scaled to size 7.63599pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 41.
+(Font)              scaled to size 5.51999pt on input line 43.
+
+<grafiki/lilijka.jpg, id=135, 449.68pt x 496.85625pt>
+File: grafiki/lilijka.jpg Graphic file (type jpg)
+
+<use grafiki/lilijka.jpg>
+Package pdftex.def Info: grafiki/lilijka.jpg used on input line 45.
+(pdftex.def)             Requested size: 170.71652pt x 188.62538pt.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 49.
  [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./grafi
+ki/lilijka.jpg>] [2
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 44.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 67.
+ (./sktyptzastepowych.toc
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 3.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 3.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 3.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 3.
 
-(./sktyptzastepowych.toc
-LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 3.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 3.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 3.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 3.
- [1]) [2] (./01-wstep.tex
+[1
+
+]) [2] (./01-wstep.tex
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
-) (./02-historia.texpdfTeX warning (ext4): destination with the same identifier
- (name{page.1}) has been already used, duplicate ignored
+ <grafiki/intro.png, id=189, 67.9338pt x 85.2786pt>
+File: grafiki/intro.png Graphic file (type png)
+
+<use grafiki/intro.png>
+Package pdftex.def Info: grafiki/intro.png used on input line 5.
+(pdftex.def)             Requested size: 67.93362pt x 85.27837pt.
+
+Package floatflt Message: Floating figure 1 set on page 1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 \item H
+            arcerz postÄ™puje po rycersku. [1
+
+
+
+ <./grafiki/intro.png>])
+(./02-historia.texpdfTeX warning (ext4): destination with the same identifier (
+name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Historia} [1
-
-
-
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \chapter
-            {Historia} [2
-
-]
+            {Historia} [2]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
- [3]
-Underfull \vbox (badness 4556) has occurred while \output is active []
+ <grafiki/bp.png, id=207, 69.1383pt x 85.2786pt>
+File: grafiki/bp.png Graphic file (type png)
 
- [4]
-[5]
+<use grafiki/bp.png>
+Package pdftex.def Info: grafiki/bp.png used on input line 5.
+(pdftex.def)             Requested size: 85.35826pt x 105.2928pt.
+
+Package floatflt Message: Floating figure 2 set on page 3
+[3
+
+ <./grafiki/bp.png>] <grafiki/bardzo.png, id=214, 113.9457pt x 85.2786pt>
+File: grafiki/bardzo.png Graphic file (type png)
+
+<use grafiki/bardzo.png>
+Package pdftex.def Info: grafiki/bardzo.png used on input line 35.
+(pdftex.def)             Requested size: 82.51282pt x 61.75316pt.
+
+Overfull \hbox (0.55226pt too wide) in paragraph at lines 32--37
+[]\T1/futs/m/n/10 Bardzo wa»-nym wy-da-rze-niem byªa obrona Ma-fe-kingu przed w
+oj-skami bur-skimi. Ba-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T1/futs/m/n/10 ob-l¦»-ni-czych.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./grafiki/bardzo.png>] <grafiki/malkowski.png, id=220, 74.9199pt x 85.2786
+pt>
+File: grafiki/malkowski.png Graphic file (type png)
+
+<use grafiki/malkowski.png>
+Package pdftex.def Info: grafiki/malkowski.png used on input line 46.
+(pdftex.def)             Requested size: 82.51282pt x 93.92773pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+\T1/futs/m/n/10 to-wu-j¡-cej swych czªon-ków do walki o nie-pod-le-gªo±¢ Pol-sk
+i.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./grafiki/malkowski.png>] <grafiki/lipca.png, id=226, 86.724pt x 85.2786pt
+>
+File: grafiki/lipca.png Graphic file (type png)
+
+<use grafiki/lipca.png>
+Package pdftex.def Info: grafiki/lipca.png used on input line 56.
+(pdftex.def)             Requested size: 82.51282pt x 81.14171pt.
+
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
  [6]
-[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./grafiki/lipca.png>] <grafiki/onc.png, id=236, 132.9768pt x 85.2786pt>
+File: grafiki/onc.png Graphic file (type png)
+
+<use grafiki/onc.png>
+Package pdftex.def Info: grafiki/onc.png used on input line 69.
+(pdftex.def)             Requested size: 82.51282pt x 52.91771pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
+\T1/futs/m/n/10 nie-miec-kiego »oª-nie-rza za-mor-do-wa-nego przez kry-mi-na-li
+-stów.
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-[9]
-Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [10]
-Underfull \vbox (badness 4556) has occurred while \output is active []
+Package wrapfig Warning: Collision between wrapping environments on input line 
+72.
 
- [11])
-(./03-systemzastepowy.tex
-Overfull \hbox (0.18036pt too wide) in paragraph at lines 66--1
-[]\T1/futs/m/n/10 Dopiero okr¡-gªy stóª w roku 1989 i na-sta-nie no-wego po-rz¡
-dku w Pol-sce spo-wo-do-waªy praw-
+<grafiki/rudy.png, id=241, 84.5559pt x 85.2786pt>
+File: grafiki/rudy.png Graphic file (type png)
+ <use grafiki/rudy.png>
+Package pdftex.def Info: grafiki/rudy.png used on input line 74.
+(pdftex.def)             Requested size: 82.51282pt x 83.21849pt.
+
+Underfull \hbox (badness 2359) in paragraph at lines 71--76
+\T1/futs/m/n/10 zli-kwi-do-wali caªe szkol-nic-two ±red-nie poza szko-ªami za-w
+o-do-wymi (na Po-ju-trze).
  []
 
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 76
+.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./grafiki/onc.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 79
+.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+81.
+
+<grafiki/str.png, id=248, 65.5248pt x 85.2786pt>
+File: grafiki/str.png Graphic file (type png)
+ <use grafiki/str.png>
+Package pdftex.def Info: grafiki/str.png used on input line 83.
+(pdftex.def)             Requested size: 55.19841pt x 71.83911pt.
+
+Underfull \hbox (badness 1205) in paragraph at lines 81--85
+[][]\T1/futs/m/n/10 Harcerstwo od-ra-dzaªo si¦ »y-wio-ªowo w la-tach 1944 - 45
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 81--85
+\T1/futs/m/n/10 nie ZHP zo-staª po-wo-ªany do »y-cia de-cy-zj¡ wªadz o±wia-to-
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 81--85
+\T1/futs/m/n/10 wych do-piero 30. grud-nia 1944 roku. Nowe wªa-dze zda-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 81--85
+\T1/futs/m/n/10 wane przez siªy im nie-przy-chylne, zwi¡-zane z rz¡-dem emi-
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 81--85
+\T1/futs/m/n/10 Od-zy-ska-nych. Har-cer-stwo li-czyªo w lipcu 1945 roku po-nad 
+200 000 czªon-ków.
+ []
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 85
+.
+
+[10 <./grafiki/rudy.png>]
+<grafiki/stalin.jpg, id=254, 177.66376pt x 274.02374pt>
+File: grafiki/stalin.jpg Graphic file (type jpg)
+
+<use grafiki/stalin.jpg>
+Package pdftex.def Info: grafiki/stalin.jpg used on input line 96.
+(pdftex.def)             Requested size: 82.51282pt x 127.2692pt.
 
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
+ [11 <./grafiki/str.png> <./grafiki/stalin.jpg>]
+<grafiki/majzhp.png, id=260, 72.5109pt x 85.2786pt>
+File: grafiki/majzhp.png Graphic file (type png)
+ <use grafiki/majzhp.png>
+Package pdftex.def Info: grafiki/majzhp.png used on input line 107.
+(pdftex.def)             Requested size: 85.35826pt x 100.391pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+\T1/futs/m/n/10 pro-wa-dzono do odej-±cia ze Zwi¡zku wielu do-±wiad-czo-nych in
+-struk-to-rów.
+ []
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
  [12]
-[13] [14
+<grafiki/bts.png, id=265, 75.1608pt x 85.2786pt>
+File: grafiki/bts.png Graphic file (type png)
+ <use grafiki/bts.png>
+Package pdftex.def Info: grafiki/bts.png used on input line 115.
+(pdftex.def)             Requested size: 85.35826pt x 96.85423pt.
 
-] [15]
-LaTeX Font Info:    Try loading font information for TS1+futs on input line 40.
-
- (/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/ts1futs.fd
-File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
-) [16] [17]) (./04-dzialaniazastepu.tex [18]
-Underfull \vbox (badness 7203) has occurred while \output is active []
-
- [19
-
-]
-[20]
-Overfull \hbox (6.71503pt too wide) in paragraph at lines 100--104
-[]\T1/futs/m/n/10 Kiedy pla-nu-jesz zbiórk¦ pa-mi¦-taj, »e zbyt
- []
-
-[21]
-Overfull \hbox (4.3527pt too wide) in paragraph at lines 110--114
-[]\T1/futs/m/n/10 Nie sied¹ z boku przy-gl¡-da-j¡c si¦ har-ce-rzom. We¹ udziaª
- []
-
-
-Overfull \hbox (4.05115pt too wide) in paragraph at lines 115--117
-[]\T1/futs/m/n/10 Obrz¦d po-wi-ta-nia, ga-w¦da - to mo»e by¢
- []
-
-
-Overfull \hbox (1.37392pt too wide) in paragraph at lines 118--122
-[]\T1/futs/m/n/10 To chyba ja-sne? Przez przy-
- []
-
-
-Overfull \hbox (8.95885pt too wide) in paragraph at lines 123--128
-[]\T1/futs/m/n/10 Ciesz si¦ kiedy chªopcy maj¡ wªa-
- []
-
-[22] [23] [24] [25]) (./06-techniki.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
-[27] [28
+ [13 <./grafiki/majzhp.png>]) (./03-systemzastepowy.tex [14 <./grafiki/bts.png>
+]
+<grafiki/szpaler.png, id=276, 108.8868pt x 85.2786pt>
+File: grafiki/szpaler.png Graphic file (type png)
 
-] [29] [30]) (./10-biblioteczka.tex [31] [32
+<use grafiki/szpaler.png>
+Package pdftex.def Info: grafiki/szpaler.png used on input line 5.
+(pdftex.def)             Requested size: 113.81102pt x 89.13785pt.
+ [15
 
-]) (./99-autorzy.tex
-[33] [34])
+ <./grafiki/szpaler.png>]
+<grafiki/zastep.png, id=283, 110.3322pt x 85.7604pt>
+File: grafiki/zastep.png Graphic file (type png)
+ <use grafiki/zastep.png>
+Package pdftex.def Info: grafiki/zastep.png used on input line 29.
+(pdftex.def)             Requested size: 85.35826pt x 66.34976pt.
+
+<grafiki/kop.png, id=284, 113.4639pt x 85.2786pt>
+File: grafiki/kop.png Graphic file (type png)
+ <use grafiki/kop.png>
+Package pdftex.def Info: grafiki/kop.png used on input line 47.
+(pdftex.def)             Requested size: 113.81102pt x 85.54121pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+\T1/futs/m/n/10 dzo owocna.
+ []
+
+
+Underfull \vbox (badness 1796) has occurred while \output is active []
+
+ [16 <./grafiki/zastep.png>]
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 52.
+
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+) [17 <./grafiki/kop.png>] <grafiki/duchowosc.png, id=295, 59.0205pt x 85.2786p
+t>
+File: grafiki/duchowosc.png Graphic file (type png)
+
+<use grafiki/duchowosc.png>
+Package pdftex.def Info: grafiki/duchowosc.png used on input line 91.
+(pdftex.def)             Requested size: 85.35826pt x 123.34367pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+\T1/futs/m/n/10 ale za-ch¦-ca¢.
+ []
+
+[18]) (./04-dzialaniazastepu.tex [19 <./grafiki/duchowosc.png>] [20
+
+]
+<grafiki/happy.png, id=309, 78.0516pt x 85.2786pt>
+File: grafiki/happy.png Graphic file (type png)
+ <use grafiki/happy.png>
+Package pdftex.def Info: grafiki/happy.png used on input line 20.
+(pdftex.def)             Requested size: 85.35826pt x 93.2667pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+\T1/futs/m/n/10 in-nych.
+ []
+
+
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+ [21]
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 39.
+
+<grafiki/drzewo.png, id=315, 250.536pt x 228.855pt>
+File: grafiki/drzewo.png Graphic file (type png)
+ <use grafiki/drzewo.png>
+Package pdftex.def Info: grafiki/drzewo.png used on input line 41.
+(pdftex.def)             Requested size: 113.81102pt x 103.96156pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 43
+.
+
+[22 <./grafiki/happy.png> <./grafiki/drzewo.png>]
+<grafiki/zbiorka.png, id=321, 231.7458pt x 85.2786pt>
+File: grafiki/zbiorka.png Graphic file (type png)
+
+<use grafiki/zbiorka.png>
+Package pdftex.def Info: grafiki/zbiorka.png used on input line 63.
+(pdftex.def)             Requested size: 327.77354pt x 120.62798pt.
+ [23
+
+ <./grafiki/zbiorka.png>]
+<grafiki/zbiorkazastepu.png, id=329, 106.9596pt x 85.2786pt>
+File: grafiki/zbiorkazastepu.png Graphic file (type png)
+
+<use grafiki/zbiorkazastepu.png>
+Package pdftex.def Info: grafiki/zbiorkazastepu.png used on input line 103.
+(pdftex.def)             Requested size: 85.35826pt x 68.05899pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--105
+\T1/futs/m/n/10 ka-waª? To wªa-±nie po-wo-duje, »e zbiórka nie jest lek-cj¡!!!
+ []
+
+
+Overfull \hbox (5.54395pt too wide) in paragraph at lines 128--132
+[]\T1/futs/m/n/10 Zanim kto-kol-wiek za-pyta: czemu ta prze-rwa?,
+ []
+
+[24 <./grafiki/zbiorkazastepu.png>]
+Overfull \hbox (5.06943pt too wide) in paragraph at lines 133--137
+[]\T1/futs/m/n/10 Nie sied¹ z boku przy-gl¡-da-j¡c si¦ har-ce-rzom. We¹
+ []
+
+
+Overfull \hbox (15.96786pt too wide) in paragraph at lines 138--140
+[]\T1/futs/m/n/10 Obrz¦d po-wi-ta-nia, ga-w¦da - to mo»e
+ []
+
+
+Overfull \hbox (6.11064pt too wide) in paragraph at lines 141--145
+[]\T1/futs/m/n/10 To chyba ja-sne? Przez
+ []
+
+
+Overfull \hbox (2.74501pt too wide) in paragraph at lines 146--151
+\T1/futs/m/n/10 maj¡ wªa-sne po-my-sªy, chc¡ na-gle przy-po-mnie¢ star¡ gr¦, ul
+u-bion¡ pio-senk¦, zmie-
+ []
+
+
+Overfull \hbox (0.94447pt too wide) in paragraph at lines 146--151
+\T1/futs/m/n/10 ni¢ prze-pro-wa-dzan¡ przez Cie-bie za-baw¦. To zna-czy, »e tra
+k-tuj¡ zbiórk¦ jak swoj¡,
+ []
+
+[25] <grafiki/konflikty.png, id=342, 96.36pt x 85.2786pt>
+File: grafiki/konflikty.png Graphic file (type png)
+
+<use grafiki/konflikty.png>
+Package pdftex.def Info: grafiki/konflikty.png used on input line 201.
+(pdftex.def)             Requested size: 85.35826pt x 75.54114pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 20
+4.
+
+
+Overfull \hbox (1.95879pt too wide) in paragraph at lines 204--205
+[]\T1/futs/m/n/10 Rekin i sªo« nie mog¡ si¦ spo-tka¢ i nie sto-cz¡ ze sob¡ walk
+i. Ale ju» wszystko,
+ []
+
+[26]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 20
+5.
+
+[27 <./grafiki/konflikty.png>]
+Overfull \hbox (6.91043pt too wide) in paragraph at lines 238--240
+[]\T1/futs/m/n/10 3. Te-raz za-st¦-powy sam musi si¦ za-sta-no-wi¢: dla-czego J
+a-sio nie przy-cho-dzi na zbiórki?
+ []
+
+<grafiki/plecak.png, id=353, 119.2455pt x 85.2786pt>
+File: grafiki/plecak.png Graphic file (type png)
+ <use grafiki/plecak.png>
+Package pdftex.def Info: grafiki/plecak.png used on input line 255.
+(pdftex.def)             Requested size: 85.35826pt x 61.04527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--257
+\T1/futs/m/n/10 tªu-ma-czyª, »e ta-kie po-st¦-po-wa-nie nie przy-stoi har-ce-rz
+owi.
+ []
+
+[28] [29 <./grafiki/plecak.png>]
+<grafiki/kara.png, id=363, 430.7292pt x 233.4321pt>
+File: grafiki/kara.png Graphic file (type png)
+ <use grafiki/kara.png>
+Package pdftex.def Info: grafiki/kara.png used on input line 274.
+(pdftex.def)             Requested size: 327.77354pt x 177.63818pt.
+
+<grafiki/nasluch.png, id=364, 105.2733pt x 85.2786pt>
+File: grafiki/nasluch.png Graphic file (type png)
+
+<use grafiki/nasluch.png>
+Package pdftex.def Info: grafiki/nasluch.png used on input line 283.
+(pdftex.def)             Requested size: 85.35826pt x 69.15073pt.
+ <grafiki/siec.png, id=365, 340.3917pt x 271.0125pt>
+File: grafiki/siec.png Graphic file (type png)
+
+<use grafiki/siec.png>
+Package pdftex.def Info: grafiki/siec.png used on input line 289.
+(pdftex.def)             Requested size: 327.77354pt x 260.97542pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <./grafiki/kara.png> <./grafiki/nasluch.png>] [31 <./grafiki/siec.png>]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 306.
+
+Overfull \hbox (1.48103pt too wide) in paragraph at lines 317--318
+[]\T1/futs/m/n/10 Sprawna sªu»ba w kuchni to nie tylko punk-tu-alne po-siªki, p
+i¦k-nie wy-gl¡-da-j¡ce, pach-
+ []
+
+[32]) (./05-stopnieisprawnosci.tex
+Overfull \hbox (1.72224pt too wide) in paragraph at lines 321--1
+[]\T1/futs/m/n/10 Pami¦taj Druhu Za-st¦-powy! Obóz to wspa-niaªa za-bawa, nie-s
+a-mo-wite przy-gody, wiel-
+ []
+
+[33] [34
+
+] <grafiki/krzyz.png, id=390, 95.8782pt x 85.2786pt>
+File: grafiki/krzyz.png Graphic file (type png)
+
+<use grafiki/krzyz.png>
+Package pdftex.def Info: grafiki/krzyz.png used on input line 5.
+(pdftex.def)             Requested size: 113.81102pt x 101.23161pt.
+ [35 <./grafiki/krzyz.png>]
+<grafiki/sprawnosc.png, id=396, 84.7968pt x 85.2786pt>
+File: grafiki/sprawnosc.png Graphic file (type png)
+
+<use grafiki/sprawnosc.png>
+Package pdftex.def Info: grafiki/sprawnosc.png used on input line 34.
+(pdftex.def)             Requested size: 85.35826pt x 85.84961pt.
+ [36 <./grafiki/sprawnosc.png>] [37]
+Overfull \hbox (6.23294pt too wide) in paragraph at lines 76--77
+[]\T1/futs/m/n/10 zaprojektowaª i wy-ko-naª drobny przed-miot pio-nierki obo-zo
+-wej (dro-go-wskaz, ªawka,
+ []
+
+) (./06-techniki.tex [38]
+Overfull \hbox (1.8682pt too wide) in paragraph at lines 20--21
+\T1/futs/m/n/10 i Kar-to-gra-fii. ‘wietne mapy s¡ do-st¦pne tak»e na stro-nie p
+ro-jektu http://geoportal.gov.pl 
+ []
+
+[39
+
+] <grafiki/rzeka.png, id=418, 310.15875pt x 134.75343pt>
+File: grafiki/rzeka.png Graphic file (type png)
+
+<use grafiki/rzeka.png>
+Package pdftex.def Info: grafiki/rzeka.png used on input line 31.
+(pdftex.def)             Requested size: 254.9356pt x 110.75966pt.
+
+<grafiki/pomiardrzewa.png, id=419, 207.77625pt x 184.43906pt>
+File: grafiki/pomiardrzewa.png Graphic file (type png)
+
+<use grafiki/pomiardrzewa.png>
+Package pdftex.def Info: grafiki/pomiardrzewa.png used on input line 42.
+(pdftex.def)             Requested size: 109.25969pt x 96.98672pt.
+
+Overfull \hbox (7.3511pt too wide) in paragraph at lines 35--45
+\T1/futs/m/n/10 znaj-dzie punkt, z któ-rego przez miej-sce za-zna-czone na la-s
+ce zo-ba-czy wierz-cho-ªek drzewa.
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40 <./grafiki/rzeka.png>]
+<grafiki/lacznik.png, id=427, 77.5698pt x 85.2786pt>
+File: grafiki/lacznik.png Graphic file (type png)
+ <use grafiki/lacznik.png>
+Package pdftex.def Info: grafiki/lacznik.png used on input line 55.
+(pdftex.def)             Requested size: 85.35826pt x 93.84836pt.
+
+<grafiki/ulamkowy1.png, id=428, 489.32813pt x 67.0003pt>
+File: grafiki/ulamkowy1.png Graphic file (type png)
+
+<use grafiki/ulamkowy1.png>
+Package pdftex.def Info: grafiki/ulamkowy1.png used on input line 78.
+(pdftex.def)             Requested size: 327.77354pt x 44.88075pt.
+
+<grafiki/ulamkowy2.png, id=429, 368.87813pt x 63.23625pt>
+File: grafiki/ulamkowy2.png Graphic file (type png)
+
+<use grafiki/ulamkowy2.png>
+Package pdftex.def Info: grafiki/ulamkowy2.png used on input line 79.
+(pdftex.def)             Requested size: 327.77354pt x 56.18936pt.
+
+Underfull \vbox (badness 3019) has occurred while \output is active []
+
+ [41 <./grafiki/pomiardrzewa.png> <./grafiki/lacznik.png>]
+<grafiki/czekoladka.png, id=435, 376.40625pt x 127.22531pt>
+File: grafiki/czekoladka.png Graphic file (type png)
+
+<use grafiki/czekoladka.png>
+Package pdftex.def Info: grafiki/czekoladka.png used on input line 88.
+(pdftex.def)             Requested size: 327.77354pt x 110.79576pt.
+) (./10-biblioteczka.tex [42 <./grafiki/ulamkowy1.png> <./grafiki/ulamkowy2.png
+> <./grafiki/czekoladka.png>]
+<grafiki/biblioteczka.png, id=442, 218.4963pt x 160.9212pt>
+File: grafiki/biblioteczka.png Graphic file (type png)
+
+<use grafiki/biblioteczka.png>
+Package pdftex.def Info: grafiki/biblioteczka.png used on input line 4.
+(pdftex.def)             Requested size: 113.81102pt x 83.82191pt.
+
+Underfull \hbox (badness 1577) in paragraph at lines 6--8
+\T1/futs/m/n/10 in-nych ksi¡-»ek o te-ma-tyce hi-sto-rycz-nej, przy-go-do-wej,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\T1/futs/m/n/9 M. Ka-pi-szew-ska - Ksi¦ga Har-ców
+ []
+
+[43
+
+ <./grafiki/biblioteczka.png>]) (./99-autorzy.tex [44])
 
 Package glossaries Warning: \makeglossaries hasn't been used,
 the glossaries will not be updated.
@@ -2029,37 +2533,38 @@ the glossaries will not be updated.
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[35
+[45
 
 ]
 \tf@toc=\write8
 \openout8 = `sktyptzastepowych.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (./sktyptzastepowych.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
-(rerunfilecheck)             Checksum: F29DE4D7101B9129DF9A6EFE60A024D7;4313.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+(rerunfilecheck)             Checksum: EC7F4452A791C5F1EB1B674A75DD0301;5601.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 25651 strings out of 493488
- 415124 string characters out of 3141326
- 588512 words of memory out of 3000000
- 28337 multiletter control sequences out of 15000+200000
- 87018 words of font info for 76 fonts, out of 3000000 for 9000
- 957 hyphenation exceptions out of 8191
- 61i,13n,55p,2691b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26126 strings out of 493488
+ 422842 string characters out of 3141326
+ 607044 words of memory out of 3000000
+ 28725 multiletter control sequences out of 15000+200000
+ 93815 words of font info for 88 fonts, out of 3000000 for 9000
+ 963 hyphenation exceptions out of 8191
+ 61i,13n,55p,2447b,615s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/te
-xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (39 pages, 153598 bytes).
+exlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/tex
+mf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on sktyptzastepowych.pdf (49 pages, 3468324 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
- 80 named destinations out of 1000 (max. 500000)
- 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 380 compressed objects within 4 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 439 words of extra memory for PDF output out of 10000 (max. 10000000)
 

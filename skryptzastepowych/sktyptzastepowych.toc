@@ -4,27 +4,38 @@
 \contentsline {chapter}{\chapternumberline {2}Historia}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Scauting}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Powstanie harcerstwa w Polsce. harcerstwo w II Rzeczypospolitej}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Harcerstwo podczas II wojny \IeC {\'s}wiatowej}{7}{section.2.3}
-\contentsline {section}{\numberline {2.4}Harcerstwo w PRL i w III Rzeczypospolitej}{9}{section.2.4}
+\contentsline {section}{\numberline {2.3}Harcerstwo podczas II wojny \IeC {\'s}wiatowej}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Harcerstwo w PRL i w III Rzeczypospolitej}{10}{section.2.4}
 \contentsline {chapter}{\chapternumberline {3}System zast\IeC {\k e}powy}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}Wst\IeC {\k e}p}{15}{section.3.1}
 \contentsline {section}{\numberline {3.2}Zast\IeC {\k e}p}{16}{section.3.2}
-\contentsline {section}{\numberline {3.3}Zast\IeC {\k e}powy}{16}{section.3.3}
+\contentsline {section}{\numberline {3.3}Zast\IeC {\k e}powy}{17}{section.3.3}
 \contentsline {section}{\numberline {3.4}Duchowo\IeC {\'s}\IeC {\'c} zast\IeC {\k e}powego}{18}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Dzia\IeC {\l }ania zast\IeC {\k e}pu}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Plan pracy zast\IeC {\k e}pu}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}Obrz\IeC {\k e}dow\IeC {\'s}\IeC {\'c} zast\IeC {\k e}pu}{20}{section.4.2}
-\contentsline {section}{\numberline {4.3}Zbi\IeC {\'o}rka zast\IeC {\k e}pu}{20}{section.4.3}
-\contentsline {section}{\numberline {4.4}Zasady dobrej (Twojej) zbi\IeC {\'o}rki}{21}{section.4.4}
-\contentsline {section}{\numberline {4.5}Konflikty i problemy w zast\IeC {\k e}pie}{24}{section.4.5}
-\contentsline {section}{\numberline {4.6}Nagrody i kary}{25}{section.4.6}
-\contentsline {section}{\numberline {4.7}Sie\IeC {\'c} alarmowa zast\IeC {\k e}pu}{27}{section.4.7}
-\contentsline {chapter}{\chapternumberline {5}Techniki harcerskie}{29}{chapter.5}
-\contentsline {section}{\numberline {5.1}Terenoznawstwo}{29}{section.5.1}
-\contentsline {paragraph}{Sposoby orientacji w terenie}{29}{section*.1}
-\contentsline {paragraph}{Skala mapy}{29}{section*.2}
-\contentsline {paragraph}{Mierzenie w terenie}{30}{section*.3}
-\contentsline {section}{\numberline {5.2}\IeC {\L }\IeC {\k a}czno\IeC {\'s}\IeC {\'c}}{30}{section.5.2}
-\contentsline {section}{\numberline {5.3}Szyfry}{31}{section.5.3}
-\contentsline {chapter}{\chapternumberline {6}Biblioteczka zast\IeC {\k e}powego}{33}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Autorzy tre\IeC {\'s}ci}{35}{chapter.7}
+\contentsline {chapter}{\chapternumberline {4}Dzia\IeC {\l }ania zast\IeC {\k e}pu}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Plan pracy zast\IeC {\k e}pu}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Obrz\IeC {\k e}dow\IeC {\'s}\IeC {\'c} zast\IeC {\k e}pu}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Zbi\IeC {\'o}rka zast\IeC {\k e}pu}{23}{section.4.3}
+\contentsline {section}{\numberline {4.4}Zasady dobrej (Twojej) zbi\IeC {\'o}rki}{24}{section.4.4}
+\contentsline {section}{\numberline {4.5}Konflikty i problemy w zast\IeC {\k e}pie}{27}{section.4.5}
+\contentsline {section}{\numberline {4.6}Nagrody i kary}{28}{section.4.6}
+\contentsline {section}{\numberline {4.7}Sie\IeC {\'c} alarmowa zast\IeC {\k e}pu}{30}{section.4.7}
+\contentsline {section}{\numberline {4.8}Zast\IeC {\k e}p na obozie}{31}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Atmosfera na obozie}{32}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}Obozowe imprezy}{32}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {4.8.3}S\IeC {\l }u\IeC {\.z}ba zast\IeC {\k e}pu na obozie}{32}{subsection.4.8.3}
+\contentsline {chapter}{\chapternumberline {5}Stopnie i sprawno\IeC {\'s}ci}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Stopnie harcerskie}{35}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sprawno\IeC {\'s}ci harcerskie}{36}{section.5.2}
+\contentsline {paragraph}{\IeC {\L }\IeC {\k a}cznik:}{37}{section*.1}
+\contentsline {paragraph}{Sobieradek obozowy:}{38}{section*.2}
+\contentsline {chapter}{\chapternumberline {6}Techniki harcerskie}{39}{chapter.6}
+\contentsline {section}{\numberline {6.1}Terenoznawstwo}{39}{section.6.1}
+\contentsline {paragraph}{Sposoby orientacji w terenie}{39}{section*.3}
+\contentsline {paragraph}{Skala mapy}{40}{section*.4}
+\contentsline {paragraph}{Mierzenie w terenie}{40}{section*.5}
+\contentsline {section}{\numberline {6.2}\IeC {\L }\IeC {\k a}czno\IeC {\'s}\IeC {\'c}}{41}{section.6.2}
+\contentsline {section}{\numberline {6.3}Szyfry}{42}{section.6.3}
+\contentsline {paragraph}{Pozosta\IeC {\l }e szyfry:}{42}{section*.6}
+\contentsline {paragraph}{Stw\IeC {\'o}rz szyfr zast\IeC {\k e}pu}{42}{section*.7}
+\contentsline {chapter}{\chapternumberline {7}Biblioteczka zast\IeC {\k e}powego}{43}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Autorzy tre\IeC {\'s}ci}{45}{chapter.8}
