@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 03:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  16 DEC 2012 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2368,8 +2368,14 @@ i. Ale ju» wszystko,
 Package wrapfig Warning: Stationary wrapfigure forced to float on input line 20
 5.
 
+
+Overfull \hbox (1.79837pt too wide) in paragraph at lines 224--226
+[]\T1/futs/m/n/10 5. Roz-wi¡-za-nie kon-fliktu spró-buj zna-le¹¢ sam, gdy b¦-dz
+iesz wie-dziaª gdzie na-prawd¦
+ []
+
 [27 <./grafiki/konflikty.png>]
-Overfull \hbox (6.91043pt too wide) in paragraph at lines 238--240
+Overfull \hbox (6.91043pt too wide) in paragraph at lines 239--241
 []\T1/futs/m/n/10 3. Te-raz za-st¦-powy sam musi si¦ za-sta-no-wi¢: dla-czego J
 a-sio nie przy-cho-dzi na zbiórki?
  []
@@ -2377,10 +2383,10 @@ a-sio nie przy-cho-dzi na zbiórki?
 <grafiki/plecak.png, id=353, 119.2455pt x 85.2786pt>
 File: grafiki/plecak.png Graphic file (type png)
  <use grafiki/plecak.png>
-Package pdftex.def Info: grafiki/plecak.png used on input line 255.
+Package pdftex.def Info: grafiki/plecak.png used on input line 256.
 (pdftex.def)             Requested size: 85.35826pt x 61.04527pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--257
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
 \T1/futs/m/n/10 tªu-ma-czyª, »e ta-kie po-st¦-po-wa-nie nie przy-stoi har-ce-rz
 owi.
  []
@@ -2389,20 +2395,20 @@ owi.
 <grafiki/kara.png, id=363, 430.7292pt x 233.4321pt>
 File: grafiki/kara.png Graphic file (type png)
  <use grafiki/kara.png>
-Package pdftex.def Info: grafiki/kara.png used on input line 274.
+Package pdftex.def Info: grafiki/kara.png used on input line 275.
 (pdftex.def)             Requested size: 291.35735pt x 157.9018pt.
 
 <grafiki/nasluch.png, id=364, 105.2733pt x 85.2786pt>
 File: grafiki/nasluch.png Graphic file (type png)
 
 <use grafiki/nasluch.png>
-Package pdftex.def Info: grafiki/nasluch.png used on input line 283.
+Package pdftex.def Info: grafiki/nasluch.png used on input line 284.
 (pdftex.def)             Requested size: 85.35826pt x 69.15073pt.
  <grafiki/siec.png, id=365, 340.3917pt x 271.0125pt>
 File: grafiki/siec.png Graphic file (type png)
 
 <use grafiki/siec.png>
-Package pdftex.def Info: grafiki/siec.png used on input line 289.
+Package pdftex.def Info: grafiki/siec.png used on input line 290.
 (pdftex.def)             Requested size: 182.09764pt x 144.9799pt.
 
 
@@ -2413,15 +2419,15 @@ Underfull \vbox (badness 1817) has occurred while \output is active []
 
  [30 <./grafiki/kara.png> <./grafiki/nasluch.png>]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 306.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 307.
  [31 <./grafiki/siec.png>]
-Overfull \hbox (1.48103pt too wide) in paragraph at lines 317--318
+Overfull \hbox (1.48103pt too wide) in paragraph at lines 318--319
 []\T1/futs/m/n/10 Sprawna sªu»ba w kuchni to nie tylko punk-tu-alne po-siªki, p
 i¦k-nie wy-gl¡-da-j¡ce, pach-
  []
 
 ) (./05-stopnieisprawnosci.tex
-Overfull \hbox (1.72224pt too wide) in paragraph at lines 321--1
+Overfull \hbox (1.72224pt too wide) in paragraph at lines 322--1
 []\T1/futs/m/n/10 Pami¦taj Druhu Za-st¦-powy! Obóz to wspa-niaªa za-bawa, nie-s
 a-mo-wite przy-gody, wiel-
  []
@@ -2552,10 +2558,10 @@ Package rerunfilecheck Info: File `sktyptzastepowych.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 26124 strings out of 493488
- 422828 string characters out of 3141326
- 607044 words of memory out of 3000000
- 28725 multiletter control sequences out of 15000+200000
+ 26119 strings out of 493488
+ 422746 string characters out of 3141326
+ 607045 words of memory out of 3000000
+ 28720 multiletter control sequences out of 15000+200000
  93815 words of font info for 88 fonts, out of 3000000 for 9000
  963 hyphenation exceptions out of 8191
  61i,13n,55p,2447b,615s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2564,7 +2570,7 @@ exlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
 xlive/2012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on sktyptzastepowych.pdf (47 pages, 3468073 bytes).
+Output written on sktyptzastepowych.pdf (47 pages, 3468263 bytes).
 PDF statistics:
  490 PDF objects out of 1000 (max. 8388607)
  373 compressed objects within 4 object streams

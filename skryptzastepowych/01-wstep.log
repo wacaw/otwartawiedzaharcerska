@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 00:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 DEC 2012 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -68,22 +68,62 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no j in font nullfont!
 Missing character: There is no ! in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
-[] 
- []
-
-
-! LaTeX Error: Missing \begin{document}.
+! LaTeX Error: Environment floatingfigure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 N
-     iniejszy skrypt zawiera informacje, które z pewnością przydadzą Ci ...
+l.4 \begin{floatingfigure}
+                          [l]{3cm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+! Undefined control sequence.
+l.5   \includegraphics
+                      {grafiki/intro.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{floatingfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \end{floatingfigure}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no N in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -346,7 +386,8 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
-Missing character: There is no " in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ' in font nullfont!
 Missing character: There is no W in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -354,7 +395,8 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no " in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ' in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -514,7 +556,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--8
 []
  []
 
@@ -525,7 +567,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 �
+l.9 �
      �eby być dobrym zastępowym, musisz być dobrym harcerzem. Pewnie zada...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -931,7 +973,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
 []
  []
 
@@ -942,23 +984,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Przyrzeczenie harcerskie}
+l.13 \textbf{Przyrzeczenie harcerskie}
                                       %wersja ZHR
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (89.24274pt too wide) in paragraph at lines 11--12
+Overfull \hbox (89.24274pt too wide) in paragraph at lines 13--14
 []\OT1/cmr/bx/n/10 Przyrzeczenie
  []
 
 
-Overfull \hbox (35.66649pt too wide) in paragraph at lines 11--12
+Overfull \hbox (35.66649pt too wide) in paragraph at lines 13--14
 \OT1/cmr/bx/n/10 harcer-
  []
 
 
-Overfull \hbox (19.07072pt too wide) in paragraph at lines 11--12
+Overfull \hbox (19.07072pt too wide) in paragraph at lines 13--14
 \OT1/cmr/bx/n/10 skie 
  []
 
@@ -969,7 +1011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 M
+l.15 M
       am szczerą wolę całym życiem pełnić służbę Bogu i Polsce, nie...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1096,7 +1138,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
 []
  []
 
@@ -1107,23 +1149,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 \textbf{Prawo harcerskie}
+l.18 \textbf{Prawo harcerskie}
                               %wersja ZHR
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (51.60399pt too wide) in paragraph at lines 16--17
+Overfull \hbox (51.60399pt too wide) in paragraph at lines 18--19
 []\OT1/cmr/bx/n/10 Prawo
  []
 
 
-Overfull \hbox (35.66649pt too wide) in paragraph at lines 16--17
+Overfull \hbox (35.66649pt too wide) in paragraph at lines 18--19
 \OT1/cmr/bx/n/10 harcer-
  []
 
 
-Overfull \hbox (19.07072pt too wide) in paragraph at lines 16--17
+Overfull \hbox (19.07072pt too wide) in paragraph at lines 18--19
 \OT1/cmr/bx/n/10 skie 
  []
 
@@ -1134,7 +1176,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \begin{enumerate}[
+l.19 \begin{enumerate}[
                        noitemsep,nolistsep]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1167,7 +1209,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item H
+l.20 \item H
             arcerz służy Bogu i Polsce i sumiennie spełnia swoje obowiązki.
 
 Try typing  <return>  to proceed.
@@ -1180,7 +1222,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item H
+l.20 \item H
             arcerz służy Bogu i Polsce i sumiennie spełnia swoje obowiązki.
 
 Try typing  <return>  to proceed.
@@ -1193,7 +1235,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item H
+l.20 \item H
             arcerz służy Bogu i Polsce i sumiennie spełnia swoje obowiązki.
 
 Try typing  <return>  to proceed.
@@ -1265,7 +1307,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \item N
+l.21 \item N
             a słowie harcerza polegaj jak na Zawiszy.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1277,7 +1319,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \item N
+l.21 \item N
             a słowie harcerza polegaj jak na Zawiszy.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1289,7 +1331,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \item N
+l.21 \item N
             a słowie harcerza polegaj jak na Zawiszy.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1338,7 +1380,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 \item H
+l.22 \item H
             arcerz jest pożyteczny i niesie pomoc bliźnim.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1350,7 +1392,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 \item H
+l.22 \item H
             arcerz jest pożyteczny i niesie pomoc bliźnim.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1362,7 +1404,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 \item H
+l.22 \item H
             arcerz jest pożyteczny i niesie pomoc bliźnim.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1417,7 +1459,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \item H
+l.23 \item H
             arcerz w każdym widzi bliźniego, a za brata uważa każdego in...
 
 Try typing  <return>  to proceed.
@@ -1430,7 +1472,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \item H
+l.23 \item H
             arcerz w każdym widzi bliźniego, a za brata uważa każdego in...
 
 Try typing  <return>  to proceed.
@@ -1443,7 +1485,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \item H
+l.23 \item H
             arcerz w każdym widzi bliźniego, a za brata uważa każdego in...
 
 Try typing  <return>  to proceed.
@@ -1524,7 +1566,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 \item H
+l.24 \item H
             arcerz postępuje po rycersku.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1536,7 +1578,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 \item H
+l.24 \item H
             arcerz postępuje po rycersku.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1548,7 +1590,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 \item H
+l.24 \item H
             arcerz postępuje po rycersku.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1588,7 +1630,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item H
+l.25 \item H
             arcerz miłuje przyrodę i stara się ją poznać.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1600,7 +1642,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item H
+l.25 \item H
             arcerz miłuje przyrodę i stara się ją poznać.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1612,7 +1654,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item H
+l.25 \item H
             arcerz miłuje przyrodę i stara się ją poznać.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1668,7 +1710,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \item H
+l.26 \item H
             arcerz jest karny i posłuszny rodzicom i wszystkim swoim przeł...
 
 Try typing  <return>  to proceed.
@@ -1681,7 +1723,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \item H
+l.26 \item H
             arcerz jest karny i posłuszny rodzicom i wszystkim swoim przeł...
 
 Try typing  <return>  to proceed.
@@ -1694,7 +1736,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \item H
+l.26 \item H
             arcerz jest karny i posłuszny rodzicom i wszystkim swoim przeł...
 
 Try typing  <return>  to proceed.
@@ -1771,7 +1813,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item H
+l.27 \item H
             arcerz jest zawsze pogodny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1783,7 +1825,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item H
+l.27 \item H
             arcerz jest zawsze pogodny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1795,7 +1837,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item H
+l.27 \item H
             arcerz jest zawsze pogodny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1832,7 +1874,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \item H
+l.28 \item H
             arcerz jest oszczędny i ofiarny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1844,7 +1886,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \item H
+l.28 \item H
             arcerz jest oszczędny i ofiarny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1856,7 +1898,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \item H
+l.28 \item H
             arcerz jest oszczędny i ofiarny.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1898,7 +1940,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \item H
+l.29 \item H
             arcerz jest czysty w myśli, mowie i uczynkach, nie pali tytoniu...
 
 Try typing  <return>  to proceed.
@@ -1911,7 +1953,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \item H
+l.29 \item H
             arcerz jest czysty w myśli, mowie i uczynkach, nie pali tytoniu...
 
 Try typing  <return>  to proceed.
@@ -1924,7 +1966,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \item H
+l.29 \item H
             arcerz jest czysty w myśli, mowie i uczynkach, nie pali tytoniu...
 
 Try typing  <return>  to proceed.
@@ -2021,7 +2063,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 \end{enumerate}
+l.30 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2034,11 +2076,11 @@ If that doesn't work, type  X <return>  to quit.
 
  
 Here is how much of TeX's memory you used:
- 10 strings out of 493488
- 171 string characters out of 3141326
+ 12 strings out of 493488
+ 202 string characters out of 3141326
  50432 words of memory out of 3000000
- 3416 multiletter control sequences out of 15000+200000
+ 3418 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 13i,2n,10p,516b,69s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 13i,2n,10p,518b,69s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
